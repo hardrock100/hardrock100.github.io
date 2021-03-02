@@ -1,4 +1,4 @@
-# hardrock100.github.io
+# Hardrock Hundred Manuals and Documentation
 
 This is a GitHub Pages site for manuals and other documentation related to the Hardrock Hundred Endurance Run. 
 
