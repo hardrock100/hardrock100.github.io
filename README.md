@@ -4,6 +4,8 @@ This is a GitHub Pages site for manuals and other documentation related to the H
 
 The website is located at https://hardrock100.github.io
 
+The primary site for the Hardrock Hundred is located at https://hardrock100.com
+
 ### Additions and Changes
 
 Make additions and changes to the site by submitting a Pull Request. You can do this directly from
@@ -24,9 +26,7 @@ Follow the [GitHub documentation](https://docs.github.com/en/github/collaboratin
 
 7. Ask another collaborator to review and approve your changes.
 
-8. Once your Pull Request is approved, merge it into the master branch.
-
-Once merged, your branch will be automatically deleted.
+8. Once your Pull Request is approved, merge it into the master branch. Once merged, your branch will be automatically deleted.
 
 9. Within a short time (generally 30 to 60 seconds) your changes should be available on the site. 
    Verify things look how you expected. If anything doesn't look right, repeat the above steps and fix it.
@@ -37,15 +37,18 @@ It is not necessary to run the site locally, but if you would like to do so, fol
 
 1. Install Ruby and Jekyll (https://jekyllrb.com/docs/installation/)
 2. Clone this repo:
-```shell
-git clone https://github.com/hardrock100/hardrock100.github.io.git
-```
+   ```bash
+   git clone https://github.com/hardrock100/hardrock100.github.io.git
+   ```
+   
 3. Change into the repo directory
-```shell
-cd hardrock100.github.io
-```
+   ```bash
+   cd hardrock100.github.io
+   ```
+   
 4. Run the Jekyll server
-```shell
-jekyll serve
-```
+   ```bash
+   jekyll serve
+   ```
+   
 5. Open a browser and visit localhost:4000
