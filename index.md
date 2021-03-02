@@ -9,4 +9,4 @@ permalink: /
 # Hardrock Manuals
 {: .fs-9 }
 
-## Runners Manual
+This is the home page for all Hardrock Hundred Endurance Run manuals and documentation. Available documents are listed in the navigation bar to the left.
