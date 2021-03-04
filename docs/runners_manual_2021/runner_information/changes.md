@@ -7,4 +7,4 @@ nav_order: 2
 ---
 
 ## Changes for 2021
-Here are all the changes for 2021.
+Here are all the changes for 2021. There are a lot of them!
