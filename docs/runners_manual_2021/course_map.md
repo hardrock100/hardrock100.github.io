@@ -8,3 +8,5 @@ nav_order: 5
 ## Course Map
 
 ![image](/assets/images/HR21_map_v1.jpg)
+
+(Download as a standalone PDF}
