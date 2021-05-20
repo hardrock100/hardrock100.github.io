@@ -22,6 +22,8 @@ These aid stations are car-accessible, at least via 4WD, but parking can be extr
 With the widest variety of available amenities, the "Big 4" aid stations can be depended on to have copious options for hot food & beverages, drop bags & other services. Electricity, port-a-potties/bathrooms, crew access and drop bags are standard. They have lots of action, lots of people, and generally the biggest volunteer staffs.
 
 A typical aid station menu contains:
+| | |
+|-|-|
 | Coffee/Tea/Cocoa | Pretzels |
 | Coke/Ginger Ale | Soup/Miso |
 | Tailwind | PB&J |
