@@ -20,19 +20,13 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 #### Diamond Partners
 
-![image](/assets/images/HR100-Partner-Altra.jpg) 
+![image](/assets/images/HR100-Partner-Altra.jpg) ![image](/assets/images/HR100-Partner-Tailwind.jpg) 
 
-![image](/assets/images/HR100-Partner-Tailwind.jpg) 
+![image](/assets/images/HR100-Partner-Black-Diamond.png) ![image](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg) 
 
-![image](/assets/images/HR100-Partner-Black-Diamond.png) 
+![image](/assets/images/HR100-Partner-Julbo.jpg) ![image](/assets/images/HR100-Partner-Kahtoola.jpg) 
 
-![image](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg) 
-
-![image](/assets/images/HR100-Partner-Julbo.jpg) 
-
-![image](/assets/images/HR100-Partner-Kahtoola.jpg) 
-
-![image](/assets/images/HR100-Partner-Suunto.jpg) 
+![image](/assets/images/HR100-Partner-Suunto.jpg)
 
 ##### Gold Partners
 
