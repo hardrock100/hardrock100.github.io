@@ -6,4 +6,4 @@ nav_order: 7
 last_modified_date: 2021-03-04
 ---
 
-## Course Description
+## Aid Station Table
