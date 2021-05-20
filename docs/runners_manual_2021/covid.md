@@ -6,7 +6,7 @@ nav_order: 3
 last_modified_date: 2021-03-04
 ---
 
-2021 COVID-19 Safety Protocols
+## 2021 COVID-19 Safety Protocols
 
 Our goal is a COVID safe yet fulfilling run experience. Our safety protocols are focused on achieving this goal by requiring masks, minimizing mass gatherings, and reducing contact points. **We recommend in the strongest possible terms that all participants (runners, crews/pacers, volunteers, spectators, etc.) come fully vaccinated.**
 
