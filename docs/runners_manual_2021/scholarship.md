@@ -15,7 +15,7 @@ The scholarship is awarded by the Hardrock Hundred Endurance Run to San Juan Mou
 Money for this scholarship is raised entirely by donations received from Hardrock Hundred runners, volunteers, and partners, as well as friends and family of Joel. 
  
 **To donate online:**
-* Go to the Community Foundation serving Southwest Colorado
+* Go to the [Community Foundation serving Southwest Colorado](http://www.swcommunityfoundation.org/)
 * Click on the "DONATE" button in the upper right.
 * Click on the "Add special instructions to the seller" and enter "Joel Zucker Scholarship".
 * Follow the other instructions for amount and whether you want to use PayPal, credit card, or debit card.
@@ -26,4 +26,4 @@ Community Foundation serving Southwest Colorado<br>PO Box 1673<br>Durango, CO 81
 
 We are happy to let you know that contributions to the Joel Zucker Memorial Scholarship ARE tax-deductible to the extent allowable by law. The Community Foundation serving Southwest Colorado tax number is 84-1474900.
 
-For more information or to request a scholarship application, please email Andi Kron
+For more information or to request a scholarship application, please email [Andi Kron](mailto:kron@swcp.com)
