@@ -1,12 +1,11 @@
 ---
-layout: default
-title: Home
+layout: title_page
+title: Hardrock Runners Manual 2021
+subtitle: July 16-18, 2021
 nav_order: 1
-description: "This is the main index page."
-permalink: /
+description: "The official Runners Manual for the 2021 Hardrock Hundred Endurance Run"
+has_children: true
 ---
 
-# Hardrock Manuals
+# Hardrock Runners Manual
 {: .fs-9 }
-
-This is the home page for all Hardrock Hundred Endurance Run manuals and documentation. Available documents are listed in the navigation bar to the left.
