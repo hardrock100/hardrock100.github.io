@@ -9,13 +9,13 @@ nav_order: 4
 
 ### Friday, July 2 - Saturday, July 3
 
-| xx        | xx            | xx              | xx                                                                                                                                              |
+|         |             |               |                                                                                                                                               |
 | --------- | ------------- | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1600 | Cook Hardrock | American Legion | Brisket, Pies, Soup and so much more!  Join in the creation of the aid station goodies, under the direction of Head Chef Johanna Bishop, R.D.N. |
 
 ### Sunday, July 4
 
-| xx        | xx                         | xx                         | xx                                                                                                                                                                                                               |
+|         |                          |                          |                                                                                                                                                                                                                |
 | --------- | -------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0730      | Blue Ribbon 2K, 5K, 10K    | Memorial Park              | [Get the 4th off to a fast start!  Benefits  Silverton Youth Center  Registration- $25  https://www.silvertonalpinerunning.com/events/blue-ribbon-run/](https://www.aravaiparunning.com/)                        |
 | 1000      | 4th of July Parade         | San Juan County Courthouse | Always a favorite of Hardrockers. Join the Hardrock Hundred Precision Drill team. Meet on. Wear something red, white or blue. If you don’t want top march come out anyway; it’s small town parading at its best! |
@@ -25,25 +25,25 @@ nav_order: 4
 
 ### Monday, July 5 - Friday, July 9
 
-| xx        | xx               | xx              | xx                                                                                                                                                                                                                               |
+|         |                |               |                                                                                                                                                                                                                                |
 | --------- | ---------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1600 | Aid Station Prep | American Legion | All the activities that go into making our tremendous aid stations!  Unpack, test, sort & make sure everyone’s got the gear & food they need.  Activities vary daily - see Aid Station Director Brad Bishop.  Lunch included. :) |
 
 ### Saturday, July 10 - Sunday, July 11
 
-| xx   | xx         | xx                                                                                                                                                                                                                                                                                                                                                    | xx |
+|    |          |                                                                                                                                                                                                                                                                                                                                                     |  |
 | ---- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
 | 0800 | Trail Work | [8 hours of support to the local trails, earning our dirt and giving back to the trails we love.  Fill out the Hardrock Volunteer Form to get on the mailing list.  Meeting is at the Silverton Gym more often than not, but you’ll want to be in the know to be sure.  Gloves, long pants & closed-toed shoes required.](http://bit.ly/HRHVolunteer) |
 
 ### Monday, July 12
 
-| xx        | xx               | xx              | xx                                                                                                                                                                                                                               |
+|         |                |               |                                                                                                                                                                                                                                |
 | --------- | ---------------- | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1600 | Aid Station Prep | American Legion | All the activities that go into making our tremendous aid stations!  Unpack, test, sort & make sure everyone’s got the gear & food they need.  Activities vary daily - see Aid Station Director Brad Bishop.  Lunch included. :) |
 
 ### Tuesday, July 13
 
-| xx        | xx                  | xx                | xx                                                                                                                                                                                                                               |
+|         |                   |                 |                                                                                                                                                                                                                                |
 | --------- | ------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1600 | Aid Station Prep    | American Legion   | All the activities that go into making our tremendous aid stations!  Unpack, test, sort & make sure everyone’s got the gear & food they need.  Activities vary daily - see Aid Station Director Brad Bishop.  Lunch included. :) |
 | 0800-1000 | Coffee Club         | Coffee Bear       | Join the Hardrock community ads we say good morning in a social way. Share stories, renew friendships and have a cup of Joe as we get ready for the day!                                                                         |
@@ -53,7 +53,7 @@ nav_order: 4
 
 ### Wednesday, July 14
 
-| xx        | xx                                                    | xx                  | xx                                                                                                                                                                                                                                                                                                  |
+|         |                                                     |                   |                                                                                                                                                                                                                                                                                                   |
 | --------- | ----------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1600 | Aid Station Prep                                      | American Legion     | All the activities that go into making our tremendous aid stations!  Unpack, test, sort & make sure everyone’s got the gear & food they need.  Activities vary daily - see Aid Station Director Brad Bishop.  Lunch included. :)                                                                    |
 | 0800-1000 | Coffee Club                                           | Coffee Bear         | Join the Hardrock community ads we say good morning in a social way. Share stories, renew friendships and have a cup of Joe as we get ready for the day!                                                                                                                                            |
@@ -69,7 +69,7 @@ nav_order: 4
 
 ### Thursday, July 15
 
-| xx        | xx                                                                             | xx                                                                                                                                                                                                                                          | xx                                                                                                                                                                                                                                                                                                               |
+|         |                                                                              |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                |
 | --------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1000 | Coffee Club                                                                    | Coffee Bear                                                                                                                                                                                                                                 | Join the Hardrock community ads we say good morning in a social way. Share stories, renew friendships and have a cup of Joe as we get ready for the day!                                                                                                                                                         |
 | 0800-1100 | Runner Check-In                                                                | Silverton Gym                                                                                                                                                                                                                               | Sure you want to run?? This is the first step. Pick up all your info and SPOT Tracker, reconnect with friends old and new and buy some Hardrock SWAG. ALL RUNNERS MUST BE CHECKED IN BY 11:00. Any spots not claimed will be given to wait listed runners based on their position on their respective waitlists. |
@@ -82,7 +82,7 @@ nav_order: 4
 
 ### Friday, July 16
 
-| xx        | xx                    | xx                                 | xx                                                                                                                                                                                                                                      |
+|         |                     |                                  |                                                                                                                                                                                                                                       |
 | --------- | --------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0445      | Pre-Run Breakfast     | Natalia's, Bent Elbow, Coffee Bear | Up and at ’em early. Join us at Natalia’s, Bent Elbow and Coffee Bear for a quick bite to eat before you go. If you don’t want to wake up that early then they’ll be open after your crews come back from the river crossing            |
 | 0500-0545 | Final Runner Check-In | Silverton Gym                      | This is so exciting!! ALL RUNNERS MUST BE CHECKED IN BY 5:45 a.m. OR LOSE THEIR SPOT! DON’T LAUGH…IT’S HAPPENED!                                                                                                                        |
@@ -90,14 +90,14 @@ nav_order: 4
 
 ### Saturday, July 17
 
-| xx        | xx                     | xx            | xx                                                                                                                                                                                                                                      |
+|         |                      |             |                                                                                                                                                                                                                                       |
 | --------- | ---------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Morning   | First Finishers Arrive | Silverton Gym | Follow the runner’s progress on MAProgress, our website and on Hardrock social media and be there to welcome the first runners back to Silverton for their rendezvous with the rock!                                                    |
 | 1000-1800 | Hardblock Street Party | Silverton Gym | There'll be music, vendor booths, a beer garden and activities for the kids right next to the finish line so plan on making a day of it! Oh yeah, don’t forget to stop having fun to cheer on the finishers as they arrive at the rock! |
 
 ### Sunday, July 18
 
-| xx        | xx                     | xx            | xx                                                                                                             |
+|         |                      |             |                                                                                                              |
 | --------- | ---------------------- | ------------- | -------------------------------------------------------------------------------------------------------------- |
 | 0500-0600 | Golden Hour            | Silverton Gym | Cheer in those who've spent the most time enjoying the course!                                                 |
 | 0600      | Last Official Finisher | Silverton Gym |
