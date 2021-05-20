@@ -7,8 +7,8 @@ nav_order: 4
 
 # Schedule
 
-|  |                                                                                |
-| ----------------------------------- | ------------------------------------------------------------------------------ |
+|  |                                                                                |  |  |
+| ----------------------------------- | ------------------------------------------------------------------------------ |  |  |
 | **Friday, July 2 - Saturday, July 3**   |                                                                                |  |  |
 | 0800-1600                           | Cook Hardrock                                                                  | American Legion | Brisket, Pies, Soup and so much more!  Join in the creation of the aid station goodies, under the direction of Head Chef Johanna Bishop, R.D.N. |
 | **Sunday, July 4**                      |                                                                                |  |  |
