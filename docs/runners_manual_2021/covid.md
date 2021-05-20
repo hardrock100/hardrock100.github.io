@@ -51,7 +51,7 @@ Spectators are strongly discouraged from attending Hardrock this year.  The run 
 * Porta-Potties and Hand Wash station numbers will be increased.  All portos will be stocked with hand sanitizer and disinfectant spray or wipes & be regularly sanitized.
 * Runner and Volunteer Briefings will be held outdoors at Memorial Park.  In case of inclement weather, bring an umbrella (this is Hardrock).
 * During the run, the gym will be limited to communications, medical and post-run recovery.  Entry will only be at the NW door and exit only at the SE door.
-* A set number of tables will be available for runners to sit, eat and recover.  Only one household per table.  If capacity is reached, we will ask runners who have spent time inside to exit to allow newly finished runners to enter.
+  * A set number of tables will be available for runners to sit, eat and recover.  Only one household per table.  If capacity is reached, we will ask runners who have spent time inside to exit to allow newly finished runners to enter.
 * The Awards Breakfast will occur outdoors at Memorial Park.  We will do our best to have an abundance of tents, but in case of inclement weather, bring umbrellas (again, this is Hardrock).  Meals will be individually plated.
 * Public Showers in the Silverton Gym will NOT be available.  Locker room capacity is strongly suggested to be a maximum of 3 individuals at any time.
 
@@ -61,8 +61,8 @@ Personal, one-on-one service that Hardrock prides itself on is a low priority fo
 * No communal food bowls.  Runners will not have direct access to the food.  A masked/gloved volunteer will distribute individual servings in individual plates/bowls/cups and sanitize the serving table between each runner.
 * Fluid service is no-touch.  Runners must open their own bottles/bladders, and a masked/gloved volunteer pours.  If contact is made, serving pitchers will be sanitized.
 * Aid stations where crews are allowed will:
- * Have tight boundaries around the immediate aid station where only runners and volunteers are allowed.
- * Have relaxed crewing boundaries in the general area to allow households to socially distance (6’+ between households, especially if masks are removed).
+  * Have tight boundaries around the immediate aid station where only runners and volunteers are allowed.
+  * Have relaxed crewing boundaries in the general area to allow households to socially distance (6’+ between households, especially if masks are removed).
 * Warming tents will have a maximum occupancy of 6, and no crews allowed inside. 
 * Chairs and/or cots will be situated a reasonable distance away from the aid station (and at least 6 feet apart from each other) to reduce crowd densities at aid stations. 
 * We have ample supplies of space blankets (which will not be reused) should runners need to be kept warm. All chairs and cots will be sanitized between use. 
@@ -74,20 +74,20 @@ Safety and Medical Personnel will be staffed to full levels at the start/finish 
 **Escalation:**
 We acknowledge that COVID cases could spike to the point where additional restrictions are required, but the run is still safe to hold in a more limited format. Those additional limitations could include:
 * Packet Pickup
- * Runners will enter/exit the gym in a single-direction line, and be limited on how many may enter the gym at a time.  Check in stations will be 8 feet apart. Those waiting in line will have marked spaces to maintain social distancing.
+  * Runners will enter/exit the gym in a single-direction line, and be limited on how many may enter the gym at a time.  Check in stations will be 8 feet apart. Those waiting in line will have marked spaces to maintain social distancing.
 * Awards Breakfast
- * No food service
- * Attendance restrictions (such as only to runners & run staff)
- * Full cancellation
+  * No food service
+  * Attendance restrictions (such as only to runners & run staff)
+  * Full cancellation
 * Runner Briefing
- * If serious inclement weather, the briefing will be moved to the gym and restricted to runners and staff
- * Attendance restrictions (such as only to runners & run staff)
- * Move to virtual
+  * If serious inclement weather, the briefing will be moved to the gym and restricted to runners and staff
+  * Attendance restrictions (such as only to runners & run staff)
+  * Move to virtual
 * Additional restrictions on Crews and Pacer Exchanges
- * Access limited only to stations with considerable space to spread out (Sherman, Ouray, Telluride)
- * Reduction of crew/pacer numbers and/or stricter enforcement
- * Reduction in other run personnel (staff, volunteers, media)
- * If aid station volunteers are restricted, menus and services will be simplified
+  * Access limited only to stations with considerable space to spread out (Sherman, Ouray, Telluride)
+  * Reduction of crew/pacer numbers and/or stricter enforcement
+  * Reduction in other run personnel (staff, volunteers, media)
+  * If aid station volunteers are restricted, menus and services will be simplified
 * Wave starts to further spread out runners, pacers and crews on course
  
 In the event that someone associated with the run tests positive for COVID-19 in the two weeks post-event, we will follow strict CDC guidelines on reporting and communication to all potentially exposed parties.  The individual’s identification will be protected.
