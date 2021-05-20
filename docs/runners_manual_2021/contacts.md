@@ -18,4 +18,4 @@ last_modified_date: 2021-03-04
 
 [![image(/assets/images/Facebook.jpg)](http://www.facebook.com/hardrockhundred) ![image](/assets/images/Twitter.jpg) ![image](/assets/images/Instagram.jpg) ![image](/assets/images/Google%20Groups.jpg)
 
-[![alt text][image]][hyperlink]
+[![Facebook][/assets/images/Facebook.jpg]][http://www.facebook.com/hardrockhundred]
