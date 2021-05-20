@@ -21,21 +21,16 @@ The start and some of the aid stations are at a relatively low elevation (7,700-
  
 In a typical year, you will have wet feet 90% or more of your run.
  
-Recommended Gear
-Rain Jacket (hard shell)
-Rain Pants
-Emergency blanket
-Gloves 
-Running hat/cap 
-Sunblock
-Sunglasses
-Headlamp + Backup
-Spare batteries
-Whistle
-Capability to carry 80oz of fluid
-500 calories
+| **Recommended Gear**            |                 |
+|---------------------------------|-----------------|
+| Rain Jacket (Hard Shell)        | Rain Pants      |
+| Emergency Blanket               | Gloves          |
+| Running Hat/Cap                 | Whistle         |
+| Sunglasses                      | Sunblock        |
+| Headlamp (+backup)              | Spare Batteries |
+| Capacity to carry 80oz of fluid | 500 calories    |
  
-Weather
+**Weather**
  
 Weather is a critical factor in Hardrock and can be at least as formidable as the terrain, remoteness, or high elevation.  Every runner should carry gear appropriate for drenching rain, high winds, and near-freezing temperatures - possibly all at the same time.
  
@@ -47,7 +42,7 @@ The 48hr Cut-Off is not only in recognition of the difficult terrain, but also a
  
 The Run Director may authorize Aid Captains to hold runners if weather conditions are considered too dangerous and prevent runners from continuing if not carrying gear appropriate for conditions.
  
-Lightning
+**Lightning**
  
 Several runners in past years have had direct contact with lightning and there have been several more near misses. If caught in lightning, head to lower terrain as fast as you can.  If you cannot, find a low point or shelter away from conductors (poles, trees).  
  
@@ -58,19 +53,19 @@ If your hair begins to stand on end and/or your skin starts to tingle, a lightni
 4. Cover your ears
 5. Touch your elbows to your knees to give current a path to flow other than through your torso
  
-Snow
+**Snow**
  
 The course passes by several snow features whose danger varies year-to-year.  Large snow fields may be sloped and extremely slick at night, while present post-holing above fields of sharp scree during the day.  Use caution when approaching the edges of snowfields from above or below, as cornices (layers of snow overhanging open space) may fall from above or collapse beneath your feet.
  
-First Aid
+**First Aid**
  
-If you encounter a person who is injured, first GET HELP, then keep the victim warm.  All aid stations are staffed by at least an EMT, have a first aid kit, and have radio communication.  
+If you encounter a person who is injured, first GET HELP through official race channels, then keep the victim warm.  All aid stations are staffed by at least an EMT, have a first aid kit, and have radio communication.  
  
 Additionally, each runner carries a SPOT tracker which is used to pinpoint their location at all times.  A SOS signal via the SPOT can be triggered by ____________.
  
 Most medical problems will be relatively minor: sunburn, blisters, sprains, abrasions, and fatigue. In the later stages of the run, runners may also be dehydrated, fatigued, nauseated and/or hallucinating.  Stretches between aid stations can last 6 hours or more.  Be aware of these factors as you plan for your race.
  
-Search and Rescue
+**Search and Rescue**
  
 All Search and Rescue missions are initiated by the Run Director.
  
@@ -78,7 +73,7 @@ Hardrock purchases a CORSAR Card (Colorado Search and Rescue) for every runner. 
  
 All runners are required to carry a run-provided GPS Tracking device. This will facilitate our efforts to locate and access you more efficiently in a Search and Rescue operation.
  
-Dropping Out
+**Dropping Out**
  
 While no one likes to contemplate it, there may come a time when it is smarter for you to drop out than to continue. Also, you may miss the cutoff times or be pulled for a medical reason. However the decision is made, you must ensure the nearest Aid Station Captain is informed and have them cut off your ID bracelet.
  
