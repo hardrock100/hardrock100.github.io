@@ -2,7 +2,7 @@
 layout: default
 title: Value Statements
 parent: Runners Manual 2021
-nav_order: 15
+nav_order: 16
 last_modified_date: 2021-05-20
 ---
 
