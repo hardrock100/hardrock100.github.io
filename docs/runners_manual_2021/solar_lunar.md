@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Solar and Lunar Data
-parent: Runners Manual 2021
-nav_order: 9
-last_modified_date: 2021-03-04
+parent: Course
+grandparent: Runners Manual 2021
+nav_order: 5
+last_modified_date: 2021-05-20
 ---
 
 ## Solar and Lunar Data
