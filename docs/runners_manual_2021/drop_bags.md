@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Drop Bags
-parent: Crewing and Pacing
-grandparent: Runners Manual 2021
-nav_order: 3
+parent: Runners Manual 2021
+nav_order: 14
 last_modified_date: 2021-05-20
 ---
 
