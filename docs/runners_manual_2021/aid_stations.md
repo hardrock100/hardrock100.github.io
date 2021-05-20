@@ -32,15 +32,13 @@ A typical aid station menu contains:
 | Chips | Bananas/Oranges/Melons |
  
 Stations with vehicle access will also likely have:
-* Boiled Potatoes
-* Boiled Sweet Potatoes
-* Turkey Sandwiches
-* Wraps/Quesadillas/Burritos
-* Avocadoes
-* Bacon & Eggs
-* Pumpkin Pie
-* Black Beans & Rice
-* Brisket
+| | |
+|-|-|
+| Boiled Potatoes | Boiled Sweet Potatoes |
+| Turkey Sandwiches | Wraps/Quesadillas/Burritos |
+| Avocadoes| Bacon & Eggs |
+| Pumpkin Pie | Black Beans & Rice |
+| Brisket | |
  
 Hardrock will strive to have options for vegetarian, vegan, and gluten-free runners. However, the accessibility of some aid stations may limit selection. 
  
