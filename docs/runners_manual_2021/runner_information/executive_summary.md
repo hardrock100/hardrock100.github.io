@@ -3,7 +3,7 @@ layout: default
 title: Rules
 parent: Runner Information
 grand_parent: Runners Manual 2021
-nav_order: 2
+nav_order: 3
 ---
 
 ## Rules
