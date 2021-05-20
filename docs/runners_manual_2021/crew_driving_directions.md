@@ -15,6 +15,7 @@ Runners will be issued a single crew pass, allowing one vehicle to park at the G
 Pacers are not allowed to leave vehicles at Grouse, Chapman Gulch/Ophir or the South Mineral Campground to be picked up after the run.
  
 **Chapman Gulch**
+
 37.8557° -107.8044°
  
 *4WD from Silverton*
@@ -32,6 +33,7 @@ Pacers are not allowed to leave vehicles at Grouse, Chapman Gulch/Ophir or the S
 No crew, spectator, media or parking or drop-offs of any kind will be allowed along Ophir Pass Road. We are serious, and penalties including suspension from the lottery in future years can be applied for non-compliance.
  
 **Telluride**
+
 37.9353° -107.8071°
  
 1. From the courthouse in Telluride, go east on Colorado Ave (the main street) to the Telluride town park area. 
@@ -40,6 +42,7 @@ No crew, spectator, media or parking or drop-offs of any kind will be allowed al
 Parking is limited both by the number of spots available and a two hour time restriction for occupying a spot. Crews who plan to spend more than two hours at the station should consider unloading their runner's gear and finding a spot back east of the river. Be aware that parking on most streets in Telluride requires a paid stamp-- the machines are to be found in most blocks. Pacers may not leave their vehicles at the aid station.
  
 **Ouray**
+
 38.0283° -107.6731°
 
 1. Take US 550 over Red Mountain Pass to Ouray. 
@@ -50,6 +53,7 @@ Parking is limited both by the number of spots available and a two hour time res
 The aid station will be on the west side of the park between the gazebo and restrooms.
  
 **Grouse Gulch**
+
 37.9176° -107.5581°
 
 1. Take CR 2 NE from Silverton about 10 miles to a sign stating Picayune Gulch. 
@@ -59,6 +63,7 @@ The aid station will be on the west side of the park between the gazebo and rest
 Only one vehicle per runner will be allowed to park at Grouse. You must have your runner’s hangtag. Pacers may not leave their vehicles at the aid station.
  
 **Sherman**
+
 37.9007° -107.4331°
  
 *4WD from Silverton*
@@ -74,6 +79,7 @@ Only one vehicle per runner will be allowed to park at Grouse. You must have you
 4. Go one mile to the BLM latrine and the Cascade Creek trailhead where the aid station is located.
  
 **Cunningham Gulch**
+
 37.7932° -107.5777°
 
 1. Take CR 2 NE from Silverton 4 miles to Cunningham Gulch following the signs to the Old Hundred Mine Tour.
