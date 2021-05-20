@@ -8,4 +8,4 @@ last_modified_date: 2021-05-20
 
 ## Partners
 
-Many thanks to our plethora of partners, who support takes Hardrock to the next level!
+Many thanks to our plethora of partners, whose support takes Hardrock to the next level!
