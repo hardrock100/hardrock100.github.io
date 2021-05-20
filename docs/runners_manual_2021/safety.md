@@ -21,7 +21,7 @@ The start and some of the aid stations are at a relatively low elevation (7,700-
  
 In a typical year, you will have wet feet 90% or more of your run.
  
-| **Recommended Gear**            |                 |
+| **Recommended Gear**                              |
 |---------------------------------|-----------------|
 | Rain Jacket (Hard Shell)        | Rain Pants      |
 | Emergency Blanket               | Gloves          |
