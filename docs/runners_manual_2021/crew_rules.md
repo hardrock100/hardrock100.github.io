@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Crewing and Pacing
-parent: Runners Manual 2021
-nav_order: 11
-last_modified_date: 2021-03-04
+title: Crewing and Pacing Rules
+parent: Crewing and Pacing
+grandparent: Runners Manual 2021
+nav_order: 1
+last_modified_date: 2021-05-20
 ---
 
 ## Crewing and Pacing
