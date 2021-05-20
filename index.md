@@ -7,5 +7,4 @@ description: "The official Runners Manual for the 2021 Hardrock Hundred Enduranc
 has_children: true
 ---
 
-# Hardrock Runners Manual
 {: .fs-9 }
