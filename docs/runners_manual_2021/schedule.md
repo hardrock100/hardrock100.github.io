@@ -33,7 +33,7 @@ nav_order: 4
 
 |    |          |                                                                                                                                                                                                                                                                                                                                                     |  |
 | ---- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| 0800 | Trail Work | 8 hours of support to the local trails, earning our dirt and giving back to the trails we love.  Fill out the Hardrock Volunteer Form to get on the mailing list.  Meeting is at the Silverton Gym more often than not, but you’ll want to be in the know to be sure.  Gloves, long pants & closed-toed shoes required. |
+| 0800 | Trail Work | Silverton Gym | 8 hours of support to the local trails, earning our dirt and giving back to the trails we love.  Fill out the Hardrock Volunteer Form to get on the mailing list.  Meeting is at the Silverton Gym more often than not, but you’ll want to be in the know to be sure.  Gloves, long pants & closed-toed shoes required. |
 
 ### Monday, July 12
 
