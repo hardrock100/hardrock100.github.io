@@ -22,23 +22,24 @@ These aid stations are car-accessible, at least via 4WD, but parking can be extr
 With the widest variety of available amenities, the "Big 4" aid stations can be depended on to have copious options for hot food & beverages, drop bags & other services. Electricity, port-a-potties/bathrooms, crew access and drop bags are standard. They have lots of action, lots of people, and generally the biggest volunteer staffs.
 
 A typical aid station menu contains:
-| | |
-|-|-|
-| Coffee/Tea/Cocoa | Pretzels |
-| Coke/Ginger Ale | Soup/Miso |
-| Tailwind | PB&J |
-| GU | Candy |
-| Cookies | Fig Bars |
-| Chips | Bananas/Oranges/Melons |
+|                |                      |
+| ---------------- | ---------------------- |
+| Coffee/Tea/Cocoa | Pretzels               |
+| Coke/Ginger Ale  | Soup/Miso              |
+| Tailwind         | PB&J                   |
+| GU               | Candy                  |
+| Cookies          | Fig Bars               |
+| Chips            | Bananas/Oranges/Melons |
  
 Stations with vehicle access will also likely have:
-| | |
-|-|-|
-| Boiled Potatoes | Boiled Sweet Potatoes |
+|                 |                          |
+| ----------------- | -------------------------- |
+|                   |                            |
+| Boiled Potatoes   | Boiled Sweet Potatoes      |
 | Turkey Sandwiches | Wraps/Quesadillas/Burritos |
-| Avocadoes| Bacon & Eggs |
-| Pumpkin Pie | Black Beans & Rice |
-| Brisket | |
+| Avocadoes         | Bacon & Eggs               |
+| Pumpkin Pie       | Black Beans & Rice         |
+| Brisket           |                            |
  
 Hardrock will strive to have options for vegetarian, vegan, and gluten-free runners. However, the accessibility of some aid stations may limit selection. 
  
