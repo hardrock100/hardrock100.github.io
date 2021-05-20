@@ -34,7 +34,6 @@ A typical aid station menu contains:
 Stations with vehicle access will also likely have:
 |                 |                          |
 | ----------------- | -------------------------- |
-|                   |                            |
 | Boiled Potatoes   | Boiled Sweet Potatoes      |
 | Turkey Sandwiches | Wraps/Quesadillas/Burritos |
 | Avocadoes         | Bacon & Eggs               |
