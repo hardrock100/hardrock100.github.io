@@ -37,24 +37,24 @@ It takes awareness and effort by everyone - runners, crews, volunteers, spectato
 Here are some ideas to help us all do even better! Keep these in mind during the run, when you are training, or just out exploring the San Juan Mountains!
  
 **Runners**
-*Don’t litter! Pick up trash you find on trail
-*Use reusable dispensers on trail and buy products in bulk
-*Embrace cupless running
-*Plan with your crew to reduce traffic to aid stations
-*Learn and Practice “Leave No Trace”
-*Practice low-impact use of the wilderness any time you are on the trail
+* Don’t litter! Pick up trash you find on trail
+* Use reusable dispensers on trail and buy products in bulk
+* Embrace cupless running
+* Plan with your crew to reduce traffic to aid stations
+* Learn and Practice “Leave No Trace”
+* Practice low-impact use of the wilderness any time you are on the trail
  
 **Crews**
-*Bring supplies such as reusable cups, plates, and utensils
-*Collect recyclables and make sure they get recycled
-*Reduce the number of vehicles going to aid stations – carpool!
-*Learn the rules for responsible off-road driving, stay on designated routes and observe right-of-way on narrow mountain dirt roads
-*Park in designated spots only
-*Don’t litter! Pick up trash you find on trail
-*Pick up after your pets
+* Bring supplies such as reusable cups, plates, and utensils
+* Collect recyclables and make sure they get recycled
+* Reduce the number of vehicles going to aid stations – carpool!
+* Learn the rules for responsible off-road driving, stay on designated routes and observe right-of-way on narrow mountain dirt roads
+* Park in designated spots only
+* Don’t litter! Pick up trash you find on trail
+* Pick up after your pets
  
 **Volunteers**
-*Help runners be cupless.
-*Carpool and Limit cars to aid stations as much as possible.
-*Separate recyclables and compostables into the provided containers
-*Learn and Practice “Leave No Trace”
+* Help runners be cupless.
+* Carpool and Limit cars to aid stations as much as possible.
+* Separate recyclables and compostables into the provided containers
+* Learn and Practice “Leave No Trace”
