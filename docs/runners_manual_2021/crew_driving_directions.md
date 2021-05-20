@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Crew Access Aid Station Driving Directions
-parent: Crewing and Pacing
-grandparent: Runners Manual 2021
-nav_order: 2
+parent: Runners Manual 2021
+nav_order: 13
 last_modified_date: 2021-05-20
 ---
 
