@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 parent: Runners Manual 2021
 nav_order: 1
-last_modified_date: 2021-03-04
+last_modified_date: 2021-05-20
 ---
 
 ## Welcome
@@ -14,7 +14,7 @@ Hardrock is an ultramarathon of 100.5 miles in length, plus 33,050 feet of climb
  
 The run starts and ends in Silverton, Colorado and connects the mountain towns of Sherman (Lake City), Ouray, Telluride and Ophir, crossing thirteen major passes over 12,000', with the highest point on the course being the 14,048' summit of Handies Peak. The run is annually held in mid-July, and switches direction each year. At the finish, runners kiss the Hardrock (a picture of a ram's head painted on a large block of stone mining debris).
  
-In 2021, the run will be held in a counter-clockwise direction.
+**In 2021, the run will be held in a counter-clockwise direction.**
  
 Our course offers a graduate level challenge for endurance runs. The course is designed to provide extreme challenges in altitude, steepness, and remoteness. 
  
