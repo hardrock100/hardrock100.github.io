@@ -12,7 +12,7 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 ### Title Partner
 
-![image](/assets/images/HR100-Partner-Smartwool.jpg "width=400") 
+![image](/assets/images/HR100-Partner-Smartwool.jpg =400x) 
 
 ### Presenting Partner
 
