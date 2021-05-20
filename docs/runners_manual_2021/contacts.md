@@ -16,8 +16,4 @@ last_modified_date: 2021-03-04
 
 ## https://www.hardrock100.com
 
-[![image(/assets/images/Facebook.jpg)](http://www.facebook.com/hardrockhundred) ![image](/assets/images/Twitter.jpg) ![image](/assets/images/Instagram.jpg) ![image](/assets/images/Google%20Groups.jpg)
-
-[![alt text
-](/assets/images/Facebook.jpg)
-](http://www.facebook.com/hardrockhundred)
+[![alt text](/assets/images/Facebook.jpg)](http://www.facebook.com/hardrockhundred) [![alt text](/assets/images/Instagram.jpg)](https://www.instagram.com/hardrock100run/) [![alt text](/assets/images/Twitter.jpg)](https://twitter.com/hardrock100) [![alt text](/assets/images/Google%20Groups.jpg)](https://groups.google.com/forum/#!forum/hardrock100)
