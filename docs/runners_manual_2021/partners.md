@@ -16,11 +16,11 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 ### Presenting Partner
 
-[![alt text](/assets/images//assets/images/HR100-Partner-Gu.jpg)](http://guenergy.com/)
+[![alt text](/assets/images/HR100-Partner-Gu.jpg)](http://guenergy.com/)
 
 #### Diamond Partners
 
-[![alt text](/assets/images//assets/images/HR100-Partner-Altra.jpg)](http://www.altrarunning.com/) [![alt text](/assets/images/HR100-Partner-Tailwind.jpg)](http://www.tailwindnutrition.com/)
+[![alt text](/assets/images/HR100-Partner-Altra.jpg)](http://www.altrarunning.com/) [![alt text](/assets/images/HR100-Partner-Tailwind.jpg)](http://www.tailwindnutrition.com/)
 
 [![alt text](/assets/images/HR100-Partner-Black-Diamond.png)](http://www.blackdiamondequipment.com/en-us/) [![alt text](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg)](http://trailrunnermag.com/)
 
