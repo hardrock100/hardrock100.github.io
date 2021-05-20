@@ -27,4 +27,5 @@ last_modified_date: 2021-05-20
 | Silverton  | 100.5 | 5.8     | 324   | \-2614  | Sat 0430   | Sun 0600       | Sun 0600  | Auto     | RDFW     | Yes                 | 37.8114° -107.6663°  |
 
 Facility key: (R)adio, (D)rop bags, (F)ood, (W)ater
+
 Times in military time, MDT
