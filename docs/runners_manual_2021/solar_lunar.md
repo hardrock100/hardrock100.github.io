@@ -18,9 +18,7 @@ last_modified_date: 2021-03-04
 | Civil Twilight Ends          | 9:01p           | 9:01p             | 9:00p           |
 | Nautical Twilight Ends       | 9:39p           | 9:38p             | 9:37p           |
 | Astronomical Twilight Ends   | 10:20p          | 10:19p            | 10:18p          |
-
-|                   | Friday, July 16 | Saturday, July 17 | Sunday, July 18 |
-|-------------------|-----------------|-------------------|-----------------|
+|                   |  |  |  |
 | Moonrise          | 12:45p          | 1:54p             | 3:05p           |
 | Moonset           | 12:14a          | 12:42a            | 1:12a           |
 | Moon Illumination | 45.7%           | 57.4%             | 69.0%           |
