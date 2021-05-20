@@ -3,7 +3,7 @@ layout: default
 title: COVID-19 Protocols
 parent: Runners Manual 2021
 nav_order: 3
-last_modified_date: 2021-03-04
+last_modified_date: 2021-05-20
 ---
 
 ## 2021 COVID-19 Safety Protocols
