@@ -27,8 +27,8 @@ A typical aid station menu contains:
 | ---------------- | ---------------------- |
 | Coffee/Tea/Cocoa | Pretzels               |
 | Coke/Ginger Ale  | Soup/Miso              |
-| Tailwind         | PB&J                   |
-| GU               | Candy                  |
+| [Tailwind](http://www.tailwindnutrition.com/)         | PB&J                   |
+| [GU](http://guenergy.com/)               | Candy                  |
 | Cookies          | Fig Bars               |
 | Chips            | Bananas/Oranges/Melons |
  
