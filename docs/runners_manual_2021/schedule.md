@@ -103,12 +103,21 @@ nav_order: 4
 | 0600      | Last Official Finisher | Silverton Gym |
 | 1100      | Awards Breakfast       | Memorial Park | Come celebrate and share stories with your fellow runners and volunteers! It’s a perfect end to Hardrock 2021! |
 
+
 American Legion  1069 Greene St.
+
 Avalanche Brewing  1151 Greene St. 
+
 Bent Elbow Restaurant   1114 Blair St.
+
 Coffee Bear  1309 Greene St.
+
 Grand Imperial Hotel  1219 Greene St.
+
 Memorial Park  1800 Greene St.
+
 Natalia’s Patio  1159 Blair St.
-Silverton School Gym  On 12th St. between Snowden St. and Reese St.
+
+Silverton Gym  On 12th St. between Snowden St. and Reese St.
+
 Silverton Town Hall  1360 Greene St.
