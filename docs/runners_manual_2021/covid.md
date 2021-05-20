@@ -45,7 +45,7 @@ All participants are expected to WEAR A MASK at all times.  Exceptions are limit
 * Aid stations where crew access is allowed will have relaxed boundaries for crewing to allow for social distancing.  A good rule of thumb is “within sight” of the station (roughly a quarter mile), as long as it does not interfere with vehicle traffic.
 
 **Spectators:**
-Spectators are strongly discouraged from attending Hardrock this year.  The run can have a high potential for large crowds, especially in Silverton-based events and at the Ouray and Telluride Aid Stations.  Help us keep our runners safe (and permits intact) by limiting attendance to those with an official role with this year’s run, and enjoy our multiple live online tracking options.
+Spectators are strongly discouraged from attending Hardrock this year.  The run can have a high potential for large crowds, especially in Silverton-based events and at the Ouray and Telluride Aid Stations.  Help us keep our runners safe (and permits intact) by limiting attendance to those with an official role with this year’s run, and enjoy our multiple [live online tracking](https://www.hardrock100.com/) options.
 
 **Run Headquarters:**
 * Porta-Potties and Hand Wash station numbers will be increased.  All portos will be stocked with hand sanitizer and disinfectant spray or wipes & be regularly sanitized.
