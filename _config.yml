@@ -3,8 +3,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Manuals and Docs
-description: Manuals and documentation for the Hardrock Hundred Endurance Run
+title: Hardrock Hundred Endurance Run Runners' Manual
+description: Runners Manual for the Hardrock Hundred Endurance Run
 baseurl: "/"
 url: "https://hardrock100.github.io"
 remote_theme: pmarsceill/just-the-docs
