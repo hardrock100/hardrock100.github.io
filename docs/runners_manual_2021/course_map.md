@@ -1,8 +1,9 @@
 ---
 layout: default 
 title: Course Map
-parent: Runners Manual 2021
-nav_order: 5
+parent: Course
+grandparent: Runners Manual 2021
+nav_order: 1
 ---
 
 ## Course Map
