@@ -18,4 +18,7 @@ last_modified_date: 2021-03-04
 
 [![image(/assets/images/Facebook.jpg)](http://www.facebook.com/hardrockhundred) ![image](/assets/images/Twitter.jpg) ![image](/assets/images/Instagram.jpg) ![image](/assets/images/Google%20Groups.jpg)
 
-[![Facebook][/assets/images/Facebook.jpg]][http://www.facebook.com/hardrockhundred]
+[![alt text
+](/assets/images/Facebook.jpg
+"Let's check Jason S' profile page")
+](http://www.facebook.com/hardrockhundred)
