@@ -7,6 +7,8 @@ nav_order: 4
 
 # Schedule
 
+*Addresses at bottom*
+
 ### Friday, July 2 - Saturday, July 3
 
 |         |             |               |                                                                                                                                               |
