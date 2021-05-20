@@ -12,38 +12,38 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 ### Title Partner
 
-![image](/assets/images/HR100-Partner-Smartwool.jpg) 
+[![alt text](/assets/images/HR100-Partner-Smartwool.jpg)](http://www.smartwool.com/)
 
 ### Presenting Partner
 
-![image](/assets/images/HR100-Partner-Gu.jpg) 
+[![alt text](/assets/images//assets/images/HR100-Partner-Gu.jpg)](http://guenergy.com/)
 
 #### Diamond Partners
 
-![image](/assets/images/HR100-Partner-Altra.jpg) ![image](/assets/images/HR100-Partner-Tailwind.jpg) 
+[![alt text](/assets/images//assets/images/HR100-Partner-Altra.jpg)](http://www.altrarunning.com/) [![alt text](/assets/images/HR100-Partner-Tailwind.jpg)](http://www.tailwindnutrition.com/)
 
-![image](/assets/images/HR100-Partner-Black-Diamond.png) ![image](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg) 
+[![alt text](/assets/images/HR100-Partner-Black-Diamond.png)](http://www.blackdiamondequipment.com/en-us/) [![alt text](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg)](http://trailrunnermag.com/)
 
-![image](/assets/images/HR100-Partner-Julbo.jpg) ![image](/assets/images/HR100-Partner-Kahtoola.jpg) 
+[![alt text](/assets/images/HR100-Partner-Julbo.jpg)](http://julbo.com/) [![alt text](/assets/images/HR100-Partner-Kahtoola.jpg)](http://www.kahtoola.com/)
 
-![image](/assets/images/HR100-Partner-Suunto.jpg)
+[![alt text](/assets/images/HR100-Partner-Suunto.jpg)](https://www.suunto.com/en-us/)
 
 ##### Gold Partners
 
-![image](/assets/images/HR100-Partner-Ultimate-Direction.png) ![image](/assets/images/HR100-Partner-Squirrels-Nut-Butter.jpg) 
+[![alt text](/assets/images/HR100-Partner-Ultimate-Direction.png)](http://www.ultimatedirection.com/) [![alt text](/assets/images/HR100-Partner-Squirrels-Nut-Butter.jpg)](http://www.squirrelsnutbutter.com/)
 
-![image](/assets/images/HR100-Partner-OpenSplitTime.jpg) ![image](/assets/images/HR100-Partner-Hypoxico.jpg)
+[![alt text](/assets/images/HR100-Partner-OpenSplitTime.jpg)](http://www.opensplittime.org/) [![alt text](/assets/images/HR100-Partner-Hypoxico.jpg)](https://hypoxico.com/)
 
 ###### Participating Partners
 
-![image](/assets/images/HR100-Partner-High-Desert-Drop-Bags.png) ![image](/assets/images/HR100-Partner-Aravaipa.png) ![image](/assets/images/HR100-Partner-Berkeley-Park.jpg) 
+[![alt text](/assets/images/HR100-Partner-High-Desert-Drop-Bags.png)](http://highdesertdropbags.com/hddb/index.php) [![alt text](/assets/images/HR100-Partner-Aravaipa.png)](http://aravaiparunning.com/) [![alt text](/assets/images/HR100-Partner-Berkeley-Park.jpg)](https://www.berkeleyparkrunningcompany.com/)
 
-###### Local Supports
+###### Local Supporters
 
-![image](/assets/images/HR100-Partner-TabletoFarmCompost.jpg) ![image](/assets/images/HR100-Partner-Silverton-Grocery.png) ![image](/assets/images/HR100-Partner-High-Country-Market.jpg) 
+[![alt text](/assets/images/HR100-Partner-TabletoFarmCompost.jpg)](http://www.tabletofarmcompost.com/) [![alt text](/assets/images/HR100-Partner-Silverton-Grocery.png)](https://www.facebook.com/silvertongrocery/?fref=ts) [![alt text](/assets/images/HR100-Partner-High-Country-Market.jpg)](http://www.thehighcountrymarket.com/)
 
-![image](/assets/images/HR100-Partner-Silverton-Mountain.png) ![image](/assets/images/HR100-Partner-Global-Shelters.png) ![image](/assets/images/HR100-Partner-Silverton.png) 
+[![alt text](/assets/images/HR100-Partner-Silverton-Mountain.png)](https://silvertonmountain.com/page/home) [![alt text](/assets/images/HR100-Partner-Global-Shelters.png)](http://www.globalshelters.com/) [![alt text](/assets/images/HR100-Partner-Silverton.png)](http://www.silvertoncolorado.com/) 
 
-![image](/assets/images/HR100-Partner-Jameson.png) ![image](/assets/images/HR100-Partner-Toddy.jpg) ![image](/assets/images/HR100-Partner-Eureka-Lodge.JPG) 
+[![alt text](/assets/images/HR100-Partner-Jameson.png)](https://www.jamesoncoffee.com/) [![alt text](/assets/images/HR100-Partner-Toddy.jpg)](https://toddycafe.com/) [![alt text](/assets/images/HR100-Partner-Eureka-Lodge.JPG)](http://www.eurekalodgecolorado.com/) 
 
-![image](/assets/images/HR100-Partner-Life-Blanket.png) ![image](/assets/images/HR100-Partner-Ouray.png) ![image](/assets/images/HR100-Partner-Ouray-Christian-Fellowship.png) 
+[![alt text](/assets/images/HR100-Partner-Life-Blanket.png)](http://lifeblanket.com/) [![alt text](/assets/images/HR100-Partner-Ouray.png)](http://www.ouraycolorado.com/) [![alt text](/assets/images/HR100-Partner-Ouray-Christian-Fellowship.png)](http://ouraychristianfellowship.org/) 
