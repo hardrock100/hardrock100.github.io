@@ -40,10 +40,8 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 ###### Local Supporters
 
-[![alt text](/assets/images/HR100-Partner-TabletoFarmCompost.jpg)](http://www.tabletofarmcompost.com/) [![alt text](/assets/images/HR100-Partner-Silverton-Grocery.png)](https://www.facebook.com/silvertongrocery/?fref=ts)
+[![alt text](/assets/images/HR100-Partner-TabletoFarmCompost.jpg)](http://www.tabletofarmcompost.com/) [![alt text](/assets/images/HR100-Partner-Silverton-Grocery.png)](https://www.facebook.com/silvertongrocery/?fref=ts) [![alt text](/assets/images/HR100-Partner-Jameson.png)](https://www.jamesoncoffee.com/) 
 
 [![alt text](/assets/images/HR100-Partner-Silverton-Mountain.png)](https://silvertonmountain.com/page/home) [![alt text](/assets/images/HR100-Partner-Global-Shelters.png)](http://www.globalshelters.com/) [![alt text](/assets/images/HR100-Partner-Silverton.png)](http://www.silvertoncolorado.com/) 
 
-[![alt text](/assets/images/HR100-Partner-Jameson.png)](https://www.jamesoncoffee.com/) [![alt text](/assets/images/HR100-Partner-Toddy.jpg)](https://toddycafe.com/) [![alt text](/assets/images/HR100-Partner-Eureka-Lodge.JPG)](http://www.eurekalodgecolorado.com/) 
-
-[![alt text](/assets/images/HR100-Partner-Life-Blanket.png)](http://lifeblanket.com/) [![alt text](/assets/images/HR100-Partner-Ouray.png)](http://www.ouraycolorado.com/) [![alt text](/assets/images/HR100-Partner-Ouray-Christian-Fellowship.png)](http://ouraychristianfellowship.org/) 
+[![alt text](/assets/images/HR100-Partner-Eureka-Lodge.JPG)](http://www.eurekalodgecolorado.com/) [![alt text](/assets/images/HR100-Partner-Life-Blanket.png)](http://lifeblanket.com/) [![alt text](/assets/images/HR100-Partner-Ouray.png)](http://www.ouraycolorado.com/)
