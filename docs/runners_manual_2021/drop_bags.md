@@ -8,7 +8,7 @@ last_modified_date: 2021-05-20
 
 ## Drop Bags
 
-Runners are allowed to provide drop bags for transport to [designated aid stations](docs/runners_manual_2021/aid_station_table.md).
+Runners are allowed to provide drop bags for transport to [designated aid stations](https://hardrock100.github.io/docs/runners_manual_2021/aid_station_table/).
 
 Drop Bags may be dropped off at the American Legion building (11th and Greene) between 0800-1500 Monday-Thursday of run week, with a final deadline of 1500 on Thursday.
  
