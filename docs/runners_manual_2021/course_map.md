@@ -8,6 +8,6 @@ last_modified_date: 2021-05-20
 
 ## Course Map
 
-![image](/assets/images/HR21_map_v1.jpg)
+![image](Map Placeholder)
 
 (Download as a standalone PDF}
