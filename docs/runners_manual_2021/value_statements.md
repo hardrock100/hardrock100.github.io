@@ -53,7 +53,7 @@ Here are some ideas to help us all do even better! Keep these in mind during the
 * Bring supplies such as reusable cups, plates, and utensils
 * Collect recyclables and make sure they get recycled
 * Reduce the number of vehicles going to aid stations – carpool!
-* [Learn the rules for responsible off-road driving](http://www.staythetrail.org/content.aspx?page_id=22&club_id=266593&module_id=224604)
+* [Learn the rules for responsible off-road driving](https://staythetrail.org/trail-tips-and-etiquette/)
   * Stay on designated routes
   * Observe right-of-way on narrow mountain dirt roads
   * Park in designated spots only
