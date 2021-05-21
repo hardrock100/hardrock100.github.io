@@ -22,6 +22,6 @@ last_modified_date: 2021-05-20
 14. Pacers must run at least the whole leg to the next crew access or specifically allowed aid station, as there is generally no access for them in between. 
 15. Pacers may not continue unless accompanying their runner.
  
-Pacers are allowed from Grouse (Mile 42.2) to the finish. Pacers may also start or stop at crew access aid stations (Ouray, Telluride, Chapman), as well as the KT Aid Station provided they park at the South Mineral Campground and hike the two miles into the aid station. 
+Pacers are allowed from Grouse (Mile 42.2) to the finish. Pacers may also start or stop at crew access aid stations (Ouray, Telluride, Chapman). 
  
 Runners over 60 years old may have pacers for the entire run.
