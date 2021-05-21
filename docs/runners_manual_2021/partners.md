@@ -40,7 +40,7 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 ###### Local Supporters
 
-[![alt text](/assets/images/HR100-Partner-TabletoFarmCompost.jpg)](http://www.tabletofarmcompost.com/) [![alt text](/assets/images/HR100-Partner-Silverton-Grocery.png)](https://www.facebook.com/silvertongrocery/?fref=ts) [![alt text](/assets/images/HR100-Partner-High-Country-Market.jpg)](http://www.thehighcountrymarket.com/)
+[![alt text](/assets/images/HR100-Partner-TabletoFarmCompost.jpg)](http://www.tabletofarmcompost.com/) [![alt text](/assets/images/HR100-Partner-Silverton-Grocery.png)](https://www.facebook.com/silvertongrocery/?fref=ts)
 
 [![alt text](/assets/images/HR100-Partner-Silverton-Mountain.png)](https://silvertonmountain.com/page/home) [![alt text](/assets/images/HR100-Partner-Global-Shelters.png)](http://www.globalshelters.com/) [![alt text](/assets/images/HR100-Partner-Silverton.png)](http://www.silvertoncolorado.com/) 
 
