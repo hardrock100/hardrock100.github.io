@@ -22,7 +22,7 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 [![alt text](/assets/images/HR100-Partner-Altra.jpg)](http://www.altrarunning.com/) [![alt text](/assets/images/HR100-Partner-Tailwind.jpg)](http://www.tailwindnutrition.com/)
 
-[![alt text](/assets/images/HR100-Partner-Black-Diamond.png)](http://www.blackdiamondequipment.com/en-us/) [![alt text](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg)](http://trailrunnermag.com/)
+[![alt text](/assets/images/HR100-Partner-Black-Diamond.png)](https://www.blackdiamondequipment.com/en_US/) [![alt text](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg)](http://trailrunnermag.com/)
 
 [![alt text](/assets/images/HR100-Partner-Julbo.jpg)](http://julbo.com/) [![alt text](/assets/images/HR100-Partner-Kahtoola.jpg)](http://www.kahtoola.com/)
 
