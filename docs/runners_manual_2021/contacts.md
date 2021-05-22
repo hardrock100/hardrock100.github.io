@@ -2,7 +2,7 @@
 layout: default
 title: Contacts
 parent: Runners Manual 2021
-nav_order: 18
+nav_order: 9
 last_modified_date: 2021-05-20
 ---
 
