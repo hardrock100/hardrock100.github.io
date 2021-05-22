@@ -3,6 +3,7 @@ layout: title_page
 title: Welcome to Hardrock!
 subtitle: Documentation and Manuals
 identifier: Index Page
+nav_exclude: true
 description: "Documentation and manuals for the Hardrock Hundred Endurance Run"
 ---
 
