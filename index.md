@@ -1,11 +1,8 @@
 ---
 layout: title_page
 title: Welcome to Hardrock!
-subtitle: Documentation and Manuals
+subtitle: Runners Manual 2021
 identifier: Index Page
 nav_exclude: true
-description: "Documentation and manuals for the Hardrock Hundred Endurance Run"
+description: "Hardrock Hundred Endurance Run Runners Manual 2021"
 ---
-
-This is the home page for all documentation and manuals for the Hardrock Hundred Endurance Run. 
-Click on an item on the menu to get started.
