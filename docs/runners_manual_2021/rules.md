@@ -14,7 +14,7 @@ last_modified_date: 2021-05-20
 4. You have agreed to be pulled for medical and safety reasons if it is determined that such action is in your best interest.
 5. Aid Station Captains have the authority to act on behalf of the Hardrock run management.
 6. Pacers may meet their runners at [crew access aid stations](https://hardrock100.github.io/docs/runners_manual_2021/aid_station_table/) only.
-7. The course is closed - runners are required to follow the specified route.  If you deviate from the route, you must backtrack to the point at which you departed before continuing.
+7. The course is closed - runners are required to follow the specified route. This includes no cutting of switchbacks. If you deviate from the route, you must backtrack to the point at which you departed before continuing.
 8. All runners must complete a [Service Requirement](https://www.hardrock100.com/files/trailwork/HR100-2021-Service-Form.pdf).
 9. All runners are required to carry a run-provided [GPS Tracking](https://www.hardrock100.com/hardrock-runner-tracking.php) device.
 10. Runners are responsible and accountable for the actions of their crews/pacers before, during and after the run.
