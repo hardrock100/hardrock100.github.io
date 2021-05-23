@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Aid Stations
-parent: Runners Manual 2021
-nav_order: 9
+parent: Course
+grand_parent: Runners Manual 2021
+nav_order: 4
 last_modified_date: 2021-05-20
 ---
 

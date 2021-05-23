@@ -2,7 +2,7 @@
 layout: default
 title: Schedule
 parent: Runners Manual 2021
-nav_order: 4
+nav_order: 3
 last_modified_date: 2021-05-20
 ---
 
