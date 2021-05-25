@@ -12,13 +12,15 @@ Our goal is a COVID safe yet fulfilling run experience. Our safety protocols are
 
 We all look forward to a fun, relaxed atmosphere celebrating a return after 2 years of Hardrock cancellations, yet we also appreciate that things will look a little different.  
 
-Our approval to hold this run is contingent on following these protocols recommended by our permitting authorities and specifically the San Juan, Hinsdale, Ouray and San Miguel County public health officials.  We appreciate you playing your part. 
+Our approval to hold this run is contingent on following these protocols recommended by our permitting authorities and specifically the [Colorado Department of Public Health](https://covid19.colorado.gov/). We appreciate you playing your part.
 
 Those not cooperating will be asked to leave and could be subject to disqualification or barred from entering future Hardrocks.  Runners are responsible for the actions of their crew/pacers.   The intent of these protocols matters more than exact wording – so please don’t look for loopholes – and do your best to embrace the changes and our need to manage everyone’s safety. 
 
 For purposes of the run, we consider your “household” to be the runner together with their crew/pacers.  We ask social distancing by household under that definition, and leave it to individual runners if they want further restrictions within their household.
 
-These protocols are in line with current national, state and local regulations.  They are subject to change if regulations are updated.
+Due to the uncertainty of the COVID-19 Pandemic thisplan is subject to change and subject to modifications based on current conditions and public health orders.
+
+COVID-19 testing is available To request a COVID-19 test, call San Juan County Public Health: 970-387-0242.
 
 ### Major Elements:
 * Masks must be worn at all times. Exceptions are limited (below)
@@ -39,7 +41,7 @@ All participants are expected to WEAR A MASK at all times.  Exceptions are limit
 * Runners will be allowed the traditional kissing of the Hardrock at the finish.  The rock will be sanitized between each smooch.  We discourage French kissing (unless you are French, of course).
 
 **Crews/Pacers:**
-* Runners are strongly suggested to limit their total crew/pacers to 3 (including kids).  Crew/pacers must pre-register for contact tracing.
+* Runners are strongly suggested to limit their total crew/pacers to 3 (including kids).
 * Crews/pacers must maintain social distancing by household when outside their vehicle.
 * While at aid stations, crews/pacers are asked to wait inside their vehicles or well away from the immediate aid area as much as reasonable.  We know cell service is extremely limited, and parking is typically single-file on a roadside, so it's not easy to see when your runner arrives.  Be patient, use good judgment and be respectful.
 * Aid stations where crew access is allowed will have relaxed boundaries for crewing to allow for social distancing.  A good rule of thumb is “within sight” of the station (roughly a quarter mile), as long as it does not interfere with vehicle traffic.
