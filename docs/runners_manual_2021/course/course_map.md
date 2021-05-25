@@ -14,3 +14,5 @@ last_modified_date: 2021-05-20
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://www.hardrock100.com/files/course/HR100-2021-CCW-Map.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+<p><a href="https://www.hardrock100.com/files/course/HR100-2021-CCW-Map.pdf">Download PDF</a>.</p>
