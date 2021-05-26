@@ -45,4 +45,4 @@ Stations with vehicle access will also likely have:
  
 Hardrock will strive to have options for vegetarian, vegan, and gluten-free runners. However, the accessibility of some aid stations may limit selection. 
  
-Runners with severe food restrictions should be prepared with their own food, as cross-contamination is hard to prevent in the backcountry.
+Runners with strict food restrictions should be prepared with their own food, as cross-contamination is hard to prevent in the backcountry.
