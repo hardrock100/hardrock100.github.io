@@ -16,9 +16,10 @@ last_modified_date: 2021-05-20
 6. Pacers may meet their runner at Crew Access Aid Stations only.
 8. Crews may not meet their runners outside of crew aid stations.  
 9. Crewing is generally limited to a 400 yard radius of the aid station.  Aid Station Captains may extend or limit this as the site requires.
-10. All pacers must check-in with aid station personnel and sign a waiver at the respective aid station where they intend to join their runner. This can also be done pre-race at runner check-in. Upon signing the waiver, pacers will receive a wristband. This wristband must be worn while on course with their runner.
-11. No drones will be permitted unless a permit has been secured through the Bureau of Land Management AND HardrockHundred Endurance Run.
-12. Respect the land and other users you encounter, especially those who may not be affiliated with or aware of the run.
+10. Crews must display their Crew Hangtag for access to the Cunningham, Grouse and Chapman Aid Stations.
+11. All pacers must check-in with aid station personnel and sign a waiver at the respective aid station where they intend to join their runner. This can also be done pre-race at runner check-in. Upon signing the waiver, pacers will receive a wristband. This wristband must be worn while on course with their runner.
+12. No drones will be permitted unless a permit has been secured through the Bureau of Land Management AND HardrockHundred Endurance Run.
+13. Respect the land and other users you encounter, especially those who may not be affiliated with or aware of the run.
 14. Pacers must run at least the whole leg to the next crew access or specifically allowed aid station, as there is generally no access for them in between. 
 15. Pacers may not continue unless accompanying their runner.
  
