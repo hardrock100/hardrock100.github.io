@@ -8,6 +8,8 @@ last_modified_date: 2021-05-20
 
 # Schedule
 
+**THIS SCHEDULE IS A DRAFT ONLY, AND WILL UNDERGO REVISIONS PRIOR TO RUN WEEK**
+
 *Addresses at bottom*
 
 ### Friday, July 2 - Saturday, July 3
