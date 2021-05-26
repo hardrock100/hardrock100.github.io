@@ -9,12 +9,6 @@ last_modified_date: 2021-05-20
 
 ## Crew Access Aid Station Driving Directions
 
-**Parking**
- 
-Runners will be issued a single crew pass, allowing one vehicle to park at the Grouse Gulch and Chapman Gulch aid stations. The restricted area will be flagged, and each of these aid stations will have a traffic director. Any vehicle can transit the area, but vehicles without a crew pass may be required to park multiple miles away from the aid station.
- 
-Pacers are not allowed to leave vehicles at Grouse, Chapman Gulch/Ophir or the South Mineral Campground to be picked up after the run.
- 
 **Chapman Gulch**
 
 [37.8557° -107.8044°](https://goo.gl/maps/w3TvZ8N1m27YwnXL7)
@@ -23,15 +17,15 @@ Pacers are not allowed to leave vehicles at Grouse, Chapman Gulch/Ophir or the S
 1. Take US 550 west from the south end of Silverton. 
 2. Near MP 75, turn west onto the Ophir Pass Road. This intersection is marked with a large green sign. 
 3. Take the dirt road to Ophir Pass (11,800’). The road becomes noticeably rougher and steeper on the two-mile descent to the aid station at the south turnoff toward Swamp Gulch.
-4. Continue west past the intersection with the path where runners come out onto Ophir Pass Road. You must park in the [designated lot in Ophir](https://goo.gl/maps/Z4T8wmra9VL1ys6P9) and hike back up Ophir Pass Road (roughly 2mi) to the aid station.
+4. Continue west past the intersection with the path where runners come out onto Ophir Pass Road. **You must park in the [designated lot in Ophir](https://goo.gl/maps/Z4T8wmra9VL1ys6P9) and hike back up Ophir Pass Road (roughly 2mi) to the aid station.**
  
 *Alternate 2WD from Telluride*
 1. Exit Telluride on Main Street and go west about three miles to SR 145. 
 2. Turn left (S) and go about 10 miles to the Ophir Pass Road. This intersection is marked with a green sign. 
 3. Turn left (E) passing through the hamlet of Ophir.
-4. You must park in the [designated lot in Ophir](https://goo.gl/maps/Z4T8wmra9VL1ys6P9) and hike back up Ophir Pass Road (roughly 2mi) to the aid station.
+4. **You must park in the [designated lot in Ophir](https://goo.gl/maps/Z4T8wmra9VL1ys6P9) and hike back up Ophir Pass Road (roughly 2mi) to the aid station.**
  
-No crew, spectator, media or parking or drop-offs of any kind will be allowed along Ophir Pass Road. We are serious, and penalties including suspension from the lottery in future years can be applied for non-compliance.
+No crew, spectator, media or parking or drop-offs of any kind will be allowed along Ophir Pass Road. We are serious, and penalties including disqualification and/or suspension from the lottery in future years can be applied to runners for non-compliance by their crews.
  
 **Telluride**
 
