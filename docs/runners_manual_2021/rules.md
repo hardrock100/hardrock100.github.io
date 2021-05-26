@@ -21,4 +21,4 @@ last_modified_date: 2021-05-20
 11. Runners are not allowed to take a ride in a vehicle where it advances their progress or compensates for runner error. Runners may, after checking into an aid station, rest and get warm in a stationary vehicle.
 12. Runners that drop must inform the nearest Aid Station Captain and have them cut off your ID bracelet.
  
-Notable rule violations will be taken up by the [Run Director](mailto:dale@hardrock100.com) and a tribunal of run staff.  Penalties may include disqualification and/or banning from future Hardrocks.  The Run Director has final discretion on all penalties and questions that arise.
+Notable rule violations will be taken up by the [Run Director](mailto:dale@hardrock100.com) and a tribunal of run staff.  Penalties may include time penalties, disqualification and/or banning from future Hardrocks.  The Run Director has final discretion on all penalties and questions that arise.
