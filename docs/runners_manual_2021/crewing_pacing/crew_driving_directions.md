@@ -25,7 +25,7 @@ last_modified_date: 2021-05-20
 3. Turn left (E) passing through the hamlet of Ophir.
 4. **You must park in the [designated lot in Ophir](https://goo.gl/maps/Z4T8wmra9VL1ys6P9) and hike back up Ophir Pass Road (roughly 2mi) to the aid station.**
  
-No crew, spectator, media or parking or drop-offs of any kind will be allowed along Ophir Pass Road. We are serious, and penalties including disqualification and/or suspension from the lottery in future years can be applied to runners for non-compliance by their crews.
+No crew, spectator, media or parking or drop-offs of any kind will be allowed along Ophir Pass Road. *We are serious*, and penalties including disqualification and/or suspension from the lottery in future years can be applied to runners for non-compliance by their crews.
  
 **Telluride**
 
@@ -34,7 +34,7 @@ No crew, spectator, media or parking or drop-offs of any kind will be allowed al
 1. From the courthouse in Telluride, go east on Colorado Ave (the main street) to the Telluride town park area. 
 2. Turn right and immediately cross the bridge toward the white canopy and baseball field. 
  
-Parking is limited both by the number of spots available and a two hour time restriction for occupying a spot. Crews who plan to spend more than two hours at the station should consider unloading their runner's gear and finding a spot back east of the river. Be aware that parking on most streets in Telluride requires a paid stamp-- the machines are to be found in most blocks. Pacers may not leave their vehicles at the aid station.
+Parking is limited both by the number of spots available and a two hour time restriction for occupying a spot. Crews who plan to spend more than two hours at the station should consider unloading their runner's gear and finding a spot back east of the river. Be aware that parking on most streets in Telluride requires a paid stamp - the machines are to be found in most blocks. Pacers may not leave their vehicles at the aid station.
  
 **Ouray**
 
@@ -42,7 +42,7 @@ Parking is limited both by the number of spots available and a two hour time res
 
 1. Take US 550 over Red Mountain Pass to Ouray. 
 2. Go to the north end of the main business district, and turn left (West) on 9th Ave. 
-3. Follow it 2 Blocks, and it will curve to the right (North). 
+3. Follow it 2 blocks, after which it will curve to the right (North). 
 4. Continue straight, and park in the gravel lot designated for RV parking to your right. 
  
 The aid station will be on the west side of the park between the gazebo and restrooms.
