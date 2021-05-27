@@ -33,9 +33,9 @@ The Hardrock Hundred appreciates the beauty and vulnerability of the lands that 
 ### Keeping Hardrock Green
  
 A core value of Hardrock is responsibility to the lands on which we run and the communities in which we operate. It is our responsibility to reduce negative impacts every chance we get. Hardrock:
-* Is a cupless event. Every aid station will have reusable cups, dishware, and a wash kit; runners do not need to carry their own cup. No disposable dishware will be provided by Run HQ.
-* Is working to reduce traffic at key wilderness areas: Chapman (Ophir), Grouse, Sherman, and Cunningham in particular
-* Is constantly expanding our recycling & composting during run week – look for information at the gym
+* is a cupless event. Every aid station will have reusable cups, dishware, and a wash kit; runners do not need to carry their own cup. No disposable dishware will be provided by Run HQ.
+* is working to reduce traffic at key wilderness areas: Chapman (Ophir), Grouse, Sherman, and Cunningham in particular.
+* is constantly expanding our recycling & composting during run week – look for information at the gym.
  
 It takes awareness and effort by everyone - runners, crews, volunteers, spectators, media, etc. - to reduce our collective impact. 
  
