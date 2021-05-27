@@ -15,9 +15,9 @@ This is a dangerous course! In addition to trail running, you will likely:
 * Rock climb (mild, but hands required)
 * Be caught above treeline in extreme thunderstorms
  
-It is recommended to always carry at least one more warm item than you think you will need.  Every year, runners get stuck unexpectedly due to injury or weather.  Hypothermia can be a killer, especially on tired bodies with no reserves left for generating heat.
+It is recommended to always carry at least one *more* warm item than you think you will need.  Every year, runners get stuck unexpectedly due to injury or weather.  Hypothermia can be a killer, especially on tired bodies with no reserves left for generating heat.
  
-The start and some of the aid stations are at a relatively low elevation (7,700-9,000 feet) and in sheltered valleys, while most of the run takes place above 11,000 feet in exposed areas above timberline. Temperatures and wind conditions can be markedly different up high and the temperature can suddenly and dramatically drop. 
+The run start and some of the aid stations are at a relatively low elevation (7,700-9,000 feet) and in sheltered valleys, while most of the run takes place above 11,000 feet in exposed areas above timberline. Temperatures and wind conditions can be markedly different up high and the temperature can suddenly and dramatically drop. 
  
 In a typical year, you will have wet feet 90% or more of your run.
  
@@ -59,19 +59,19 @@ The course passes by several snow features whose danger varies year-to-year.  La
  
 **First Aid**
  
-If you encounter a person who is injured, first GET HELP through official race channels, then keep the victim warm.  All aid stations are staffed by at least an EMT, have a first aid kit, and have radio communication.  
+If you encounter a person who is injured, first GET HELP through official run channels, then keep the victim warm.  All aid stations are staffed by at least an EMT, have a first aid kit, and have radio communication.  
  
 Additionally, each runner carries a SPOT tracker which is used to pinpoint their location at all times.  A SOS signal via the SPOT can be triggered by ____________.
  
-Most medical problems will be relatively minor: sunburn, blisters, sprains, abrasions, and fatigue. In the later stages of the run, runners may also be dehydrated, fatigued, nauseated and/or hallucinating.  Stretches between aid stations can last 6 hours or more.  Be aware of these factors as you plan for your race.
+Most medical problems will be relatively minor: sunburn, blisters, sprains, abrasions, and fatigue. In the later stages of the run, runners may also be dehydrated, fatigued, nauseated and/or hallucinating.  Stretches between aid stations can last 6 hours or more.  Be aware of these factors as you plan for your run.
  
 **Search and Rescue**
  
 All Search and Rescue missions are initiated by the Run Director.
  
-Hardrock purchases a CORSAR Card (Colorado Search and Rescue) for every runner. They will be available at Runner Check-In. It is highly recommended that crews and pacers also purchase a CORSAR Card.
+Hardrock purchases a CORSAR Card (Colorado Search and Rescue) for every runner. These will be available at Runner Check-In. It is highly recommended that crews and pacers also purchase a CORSAR Card.
  
-All runners are required to carry a run-provided GPS Tracking device from [MAProgress](http://maprogress.com/). This will facilitate our efforts to locate and access you more efficiently in a Search and Rescue operation.
+All runners are required to carry a run-provided GPS Tracking device from [MAProgress](http://maprogress.com/). This will facilitate our efforts to locate and access you more efficiently in a Search and Rescue operation. Training on the operations of this device will be provided prior to the run as part of packet pickup.
  
 **Dropping Out**
  
