@@ -24,7 +24,7 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 [![alt text](/assets/images/HR100-Partner-Black-Diamond.png)](https://www.blackdiamondequipment.com/en_US/) [![alt text](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg)](http://trailrunnermag.com/)
 
-[!image](/assets/images/HR100-Partner-The-North-Face.jpg) [![alt text](/assets/images/HR100-Partner-Kahtoola.jpg)](http://www.kahtoola.com/)
+![The North Face](/assets/images/HR100-Partner-The-North-Face.jpg) [![alt text](/assets/images/HR100-Partner-Kahtoola.jpg)](http://www.kahtoola.com/)
 
 [![alt text](/assets/images/HR100-Partner-Suunto.jpg)](https://www.suunto.com/en-us/)
 
