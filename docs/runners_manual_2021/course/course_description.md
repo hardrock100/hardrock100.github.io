@@ -25,7 +25,7 @@ Therefore, as part of a graduate level run, it is your responsibility to obtain 
 
 From the Silverton School Gym, run north and east out of town, past the Kendall Mountain Ski Area and proceed NE on the Lackawanna Trail. Cross Arrastra Creek and begin the first major climb of the run on jeep roads. Look (!) for markers at road intersections at the beginning of the climb. At mile 6 look (!) for a single track trail on the left that leaves the road and ascends towards the pass.
 
-**Climb #1 - Dives-Little Giant Pass - Mile 7 - 13,000'**
+#### Climb #1 - Dives-Little Giant Pass - Mile 7 - 13,000'
 
 Descend a steep miners trail into Cunningham Gulch. Cross Cunningham Creek and enter the aid station.
 
@@ -33,11 +33,11 @@ Descend a steep miners trail into Cunningham Gulch. Cross Cunningham Creek and e
 
 The aid station is located by the horse corrals on the south side of the road. Proceed south on CR-4 0.2 mile, look (!) for a single track trail on the left and begin climbing to Green Mountain. Note that there can be large herds of sheep grazing in Green Mountain Basin. Guard dogs may be present and aggressive. Do your best to go well around the sheep and the dogs.
 
-**Climb #2 - Green Mountain/Stony Pass Ridge - Mile 12.2 - 12,980'**
+#### Climb #2 - Green Mountain/Stony Pass Ridge - Mile 12.2 - 12,980'
 
 Descend and then traverse towards Stony Pass (12,580') and Stony Pass Road. The course crosses the road about 100 meters to the south (runner’s right) of the pass. Begin climbing again, then traversing with Canby Mountain on the right.
 
-**Climb #3 - Buffalo Boy Ridge - Mile 13.7 - 13,214'**
+#### Climb #3 - Buffalo Boy Ridge - Mile 13.7 - 13,214'
 
 Begin the descent into Maggie Gulch. Note that the location of the initial drop off the ridge will vary from year to year depending on snow and cornice conditions. Follow faint trails or off-trail markers to the aid station.
 
@@ -45,7 +45,7 @@ Begin the descent into Maggie Gulch. Note that the location of the initial drop 
 
 The aid station is located at the end of a rough, narrow 4WD road with steep drops. Leave the aid station and begin climbing and traversing NE towards the Continental Divide. 
 
-**Climb #4 - Maggie/Pole Pass - Mile 16.3 - 12,530'**
+#### Climb #4 - Maggie/Pole Pass - Mile 16.3 - 12,530'
 
 Cross the Continental Divide Trail (CDT) and descend SE into the West Fork of Pole Creek. Do not (!) go north or south on the CDT.  You are now on the east side of the Continental Divide. Between here and the next aid station are huge willow stands and numerous wetlands. The Pole Creek elk are notorious for trampling course markers in this area. Slow down (!) and carefully navigate this section.
 
@@ -55,7 +55,7 @@ The aid station is located on a small ridge on the north side of the Middle Fork
 
 Depart the aid station, cross the North Fork of Pole Creek and begin ascending the Main Fork of Pole Creek NNE towards the Continental Divide. This area contains complex terrain with lots of side drainages. Many runners have gotten off-course here. Slow down (!) and carefully navigate this section. 
 
-**Climb #5 - Cataract Pole Pass - Mile 23.5 - 12,200'**
+#### Climb #5 - Cataract Pole Pass - Mile 23.5 - 12,200'
 
 Cross the CDT again. Do not (!) go east or west on the CDT. You are now back on the west side of the Continental Divide. You may see Sunshine Peak (14,001') looming large to the north. Proceed mostly north on the Cataract Gulch Trail through low angle terrain, skirting Cataract Lake and multiple tarns. The next 1-2 miles have numerous wetlands and willows. Slow down (!) and carefully navigate this section. As the terrain steepens downhill and narrows, the trail becomes more distinct and easier to follow. Cross Cottonwood Creek and enter the aid station.
 
@@ -67,11 +67,11 @@ The aid station is located in the wide gravel lot at the Cottonwood Creek trailh
 
 The aid station is located in the pull-off along Cinnamon Pass Road at the Grizzly Gulch trailhead. Leaving the aid station, cross the Lake Fork of the Gunnison River and begin climbing the Grizzly Gulch / Handies Peak Trail. This is a distinct, heavily traveled trail. Hit timberline at around 11,800'. At around 12,500'. start working up the rocky ridge towards the summit of Handies Peak.
 
-**Climb #6 - Handies Peak - Mile 36.8 - 14,048'**
+#### Climb #6 - Handies Peak - Mile 36.8 - 14,048'
 
 High point of the Hardrock 100. Breathe deep and descend south off the peak. After passing near Sloan Lake, the trail turns west. Proceed west and look (!) for a trail intersection. Leave the main climbers trail, cross the Lake Fork of the Gunnison River (again) and get on the American Basin / Grouse Gulch Trail traveling WNW. Traverse American Basin. There will likely be some snow here, even on dry years. Ascend to the next pass.
 
-**Climb #7 - American Grouse Pass - Mile 39.6 - 13,020'**
+#### Climb #7 - American Grouse Pass - Mile 39.6 - 13,020'
 
 Cross the high saddle with some faint trails going off in various directions. Slow down (!) and carefully navigate through this short section. Get on the Grouse Gulch Trail that soon becomes distinct and easy to follow. Descend continuously to the next aid. 
 
@@ -79,7 +79,7 @@ Cross the high saddle with some faint trails going off in various directions. Sl
 
 The aid station is located just south of the bridge over the Animas River on CR-2. Depart the aid station NNW on the Engineer Pass Road, passing through the headwaters of the Animas River.  This section is part of the Alpine Loop, a busy OHV route. Depending on time of day, there could be lots of traffic. Ascend 5.1 miles towards Engineer Pass, taking care not to turn off onto numerous side roads. Before getting to the true summit of Engineer Pass, look (!) for a short spur road to the left (west). This is the top of the climb. Do not (!) go to Engineer Pass.
 
-**Climb #8 - Oh Point - Mile 47.2 - 12,910'**
+#### Climb #8 - Oh Point - Mile 47.2 - 12,910'
 
 Drop off of Oh Point steeply, then more moderately and follow markers through faint and intersecting trails. Slow down (!) and carefully navigate this section all the way to the aid station.
 
@@ -100,7 +100,7 @@ The aid station is located at a gravel pull-off on the north side of Camp Bird R
 Depart the aid station SW and begin a complex route of off-trail, trails and mining roads. Slow down (!) and navigate carefully. Approaching Virginius Pass, there will be 3 steps of high and moderate angle terrain. The final steep step to the pass will usually have snow, even in dry years. There may be a fixed line here for safety. Use caution (!), as falls here are possible and be mindful of rock fall from above and dropping rocks on runners below.
 
 ### Kroger’s Canteen Aid Station - Mile 67.8 - 13,100' 
-**Climb #9 - Virginius Pass**
+#### Climb #9 - Virginius Pass
 
 The aid station is located in the small notch at the top of Virginius Pass. Enter the most spectacular (and improbable) aid station in ultrarunning. Enjoy the hospitality briefly as there is very limited space. Exit via a steep, loose trail SW using caution (!) to stay on the trail which soon traverses to the right. Runners have gotten off-course here and headed straight down. Cross Mendota Ridge, enter Liberty Bell Basin, get on the Cornet Creek Trail and run into Telluride. Follow course markers on paved streets through Telluride to the aid station at Town Park.
 
@@ -108,7 +108,7 @@ The aid station is located in the small notch at the top of Virginius Pass. Ente
 
 The aid station is located in the main town park under the pavilion. Exit the aid station SSW, cross a field and climb a short hill to the Bear Creek Trail (a road closed to motorized vehicles). Take a left and ascend. At mile 75 look (!) for the Wasatch Trail on the right. Approaching the Wasatch Saddle, slow down (!) and navigate carefully through intersections with system trails and faint social trails. Cross the saddle into Bridal Veil Basin, then turn south towards the pass. 
 
-**Climb #10 - Oscar’s Pass - Mile 79.2 - 13,140'**
+#### Climb #10 - Oscar’s Pass - Mile 79.2 - 13,140'
 
 Descend south off of the pass on the old Blixt Jeep Road into the trees and meet the Ophir Pass Road. Take a right on the road, heading downhill for about .25 mile and look(!) for a left turn. Follow old road bed / trail about .3 mile to the aid station.
 
@@ -116,7 +116,7 @@ Descend south off of the pass on the old Blixt Jeep Road into the trees and meet
 
 The aid station is located in the first large clearing encountered along the trail heading south off Ophir Pass Road. Exit south out of the aid station and ascend Swamp Canyon with South Lookout Peak on the left and US Grant Peak on the right. Climb above timberline and into the top of the drainage. There is a steep couloir going up the last few hundred vertical feet to the pass. Pick the most appealing route up the scree and begin climbing. Caution (!)- there is potential for injuries from rockfall in the couloir. Be mindful of runners and pacers above and below.
 
-**Climb #11 - Grant Swamp Pass - Mile 85.6 - 12,920'**
+#### Climb #11 - Grant Swamp Pass - Mile 85.6 - 12,920'
 
 At the top of the couloir take a right turn, traversing the ridge for about 100 yards. Check out the Joel Zucker Memorial shortly before descending steeply into Island Lake Basin. Alert (!)- soon after entering the basin the course enters an area closed to the public due to the Ice Fire that burned in October 2020. **The Hardrock has special permission to access the closure for runners and pacers only and ONLY DURING THE RUN.** Please stay strictly on the trail until the intersection with the Ice Lakes trail. 
 
@@ -126,11 +126,11 @@ Take a left on the Ice Lakes trail, run .25 mile downhill and look (!) for the K
 
 The aid station is located in a pull-off on the north side of FS 585 where the course turns south off the road to cross South Mineral Creek. Depart the aid station heading south, descending on a faint trail to the crossing of South Mineral Creek. Begin the ascent of the Porcupine drainage, crossing through high basins and timberline to a prominent saddle.
 
-**Climb #12 - Porcupine Cataract Pass - Mile 91.9 - 12,230'**
+#### Climb #12 - Porcupine Cataract Pass - Mile 91.9 - 12,230'
 
 Drop into and traverse Cataract Basin to its east end. Slow down (!) and navigate carefully though here as the trail can be faint and vegetation can obscure the route. Begin the final climb.
 
-**Climb #13 - Cataract Putnam Pass - Mile 93.3 - 12,600'**
+#### Climb #13 - Cataract Putnam Pass - Mile 93.3 - 12,600'
 
 Descend steeply to a saddle between Putnam Basin and Lime Creek. Look (!) for markers indicating a left (north) turn into Putnam Basin. Run to the final aid station.
 
