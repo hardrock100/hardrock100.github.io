@@ -122,7 +122,7 @@ At the top of the couloir take a right turn, traversing the ridge for about 100 
 
 Take a left on the Ice Lakes Trail, run 0.25 mile downhill and look (!) for the Kamm Traverse trail on the right. Descend steeply a short distance to the creek. Caution (!) - this creek crossing can be tricky with high flows. There may be a log bridge across the creek but it’s often unstable. Runners have fallen into swift water here. Climb out of the creek, wrapping around to a south heading towards the aid station. When you reach FS 585, turn right and proceed another 0.3mi to the aid station.
 
-### [KT Aid Station](https://goo.gl/maps/cfSazALccsfMyyo67) - Mile 89.1 - 10,630'
+### [KT Aid Station](https://goo.gl/maps/9Y36VWo28SwLo1JV7) - Mile 89.1 - 10,630'
 
 The aid station is located in a pull-off on the north side of FS 585 where the course turns south off the road to cross South Mineral Creek. Depart the aid station heading south, descending on a faint trail to the crossing of South Mineral Creek. Begin the ascent of the Porcupine drainage, crossing through high basins and timberline to a prominent saddle.
 
