@@ -3,7 +3,7 @@ layout: default
 title: Safety
 parent: Runners Manual 2021
 nav_order: 6
-last_modified_date: 2021-05-20
+last_modified_date: 2021-06-03
 ---
 
 ## Safety
@@ -47,11 +47,12 @@ The Run Director may authorize Aid Captains to hold runners if weather condition
 Several runners in past years have had direct contact with lightning and there have been several more near misses. If caught in lightning, head to lower terrain as fast as you can.  If you cannot, find a low point or shelter away from conductors (poles, trees).  
  
 If your hair begins to stand on end and/or your skin starts to tingle, a lightning strike is imminent.  Assume the lightning position to wait out the storm:
-1. Put your feet together
-2. Crouch slightly
-3. Minimize contact with the ground and other conductors (stay on the balls of your feet)
-4. Cover your ears
-5. Touch your elbows to your knees to give current a path to flow other than through your torso
+1. If you are with a group of runners, spread out by at least 50' **Very important**
+2. Put your feet together
+3. Crouch slightly
+4. Minimize contact with the ground and other conductors (stay on the balls of your feet)
+5. Cover your ears
+6. Touch your elbows to your knees to give current a path to flow other than through your torso
  
 **Snow**
  
