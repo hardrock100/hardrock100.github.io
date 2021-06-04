@@ -19,7 +19,6 @@ exclude: [
     "Gemfile.lock",
     "package.json",
     "package-lock.json",
-    "pdfconfigs/",
     "script/",
     "LICENSE.txt",
     "lib/",
