@@ -3,20 +3,20 @@ layout: none
 search: exclude
 ---
 
-http://localhost:4010/runners-manual-2021-pdf/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/covid/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/rules/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/schedule/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/course/course/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/course/course_map/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/course/course_description/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/course/aid_station_table/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/course/aid_stations/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/course/solar_lunar/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/crewing_pacing/crewing_pacing/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/crewing_pacing/crew_driving_directions/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/crewing_pacing/drop_bags/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/safety/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/value_statements/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/scholarship/index.html
-http://localhost:4010/runners-manual-2021-pdf/docs/runners_manual_2021/contacts/index.html
+http://localhost:4010/index.html
+http://localhost:4010/docs/runners_manual_2021/covid/index.html
+http://localhost:4010/docs/runners_manual_2021/rules/index.html
+http://localhost:4010/docs/runners_manual_2021/schedule/index.html
+http://localhost:4010/docs/runners_manual_2021/course/course/index.html
+http://localhost:4010/docs/runners_manual_2021/course/course_map/index.html
+http://localhost:4010/docs/runners_manual_2021/course/course_description/index.html
+http://localhost:4010/docs/runners_manual_2021/course/aid_station_table/index.html
+http://localhost:4010/docs/runners_manual_2021/course/aid_stations/index.html
+http://localhost:4010/docs/runners_manual_2021/course/solar_lunar/index.html
+http://localhost:4010/docs/runners_manual_2021/crewing_pacing/crewing_pacing/index.html
+http://localhost:4010/docs/runners_manual_2021/crewing_pacing/crew_driving_directions/index.html
+http://localhost:4010/docs/runners_manual_2021/crewing_pacing/drop_bags/index.html
+http://localhost:4010/docs/runners_manual_2021/safety/index.html
+http://localhost:4010/docs/runners_manual_2021/value_statements/index.html
+http://localhost:4010/docs/runners_manual_2021/scholarship/index.html
+http://localhost:4010/docs/runners_manual_2021/contacts/index.html
