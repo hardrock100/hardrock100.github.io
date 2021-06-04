@@ -9,6 +9,7 @@ last_modified_date: 2021-05-20
 
 ## Aid Station Table
 
+{:.print-compressed}
 | STATION    | Miles | Segment | Climb | Descent | Open Time | Avg 48Hr Pace | Cut Off  | Access   | Facility | Crew                | Latitude & Longitude |
 | ---------- | ----- | ------- | ----- | ------- | --------- | ------------- | -------- | -------- | -------- | ------------------- | -------------------- |
 | Cunningham | 9.3   | 9.3     | 3840  | \-2770  | Fri 0700   | Fri 0850       | Fri 1045 | Auto     | RDFW     | Yes                 | 37.7932° -107.5777°  |

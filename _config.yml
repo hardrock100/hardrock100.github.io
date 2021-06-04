@@ -14,6 +14,7 @@ exclude: [
     "node_modules/",
     "*.gemspec",
     "*.gem",
+    "*.sh",
     "Gemfile",
     "Gemfile.lock",
     "package.json",
@@ -70,9 +71,11 @@ heading_anchors: true
 aux_links:
   "Main Hardrock Site":
     - "https://www.hardrock100.com"
+  "Download PDF":
+    - "/pdf/runners_manual_2021.pdf"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 nav_sort: case_insensitive # default, equivalent to nil

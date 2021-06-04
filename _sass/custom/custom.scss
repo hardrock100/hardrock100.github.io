@@ -3,3 +3,24 @@
   align-items: center;
   justify-content: center;
 }
+
+@media print {
+  .breadcrumb-nav, .site-header {
+    display: none !important;
+  }
+
+  table.print-compressed {
+    table-layout: fixed;
+    width: 620px;
+    th, td {
+      font-stretch: condensed;
+      font-size: 8px !important;
+      padding-top: 0.3rem;
+      padding-bottom: 0.3rem;
+    }
+  }
+}
+
+table td a {
+  white-space: normal !important;
+}
