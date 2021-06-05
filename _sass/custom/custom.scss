@@ -1,7 +1,13 @@
-.box-centered {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+@media screen {
+  .box-centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+@page {
+  margin: 30pt;
 }
 
 @media print {
@@ -9,9 +15,46 @@
     display: none !important;
   }
 
+  .print-none {
+    display: none !important;
+  }
+
+  .box-centered {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 24px !important;
+  }
+
+  h2 {
+    font-size: 18px !important;
+  }
+
+  h3 {
+    font-size: 14px !important;
+  }
+
+  h4 {
+    font-size: 11px !important;
+  }
+
+  p, li, td, th {
+    font-size: 10px !important;
+  }
+
+  .main-content ol > li::before {
+    font-size: 10px !important;
+  }
+
+  .text-small {
+    font-size: 8px !important;
+  }
+
   table.print-compressed {
     table-layout: fixed;
     width: 620px;
+
     th, td {
       font-stretch: condensed;
       font-size: 8px !important;

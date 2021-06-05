@@ -16,4 +16,5 @@ last_modified_date: 2021-05-20
 
 ## [https://www.hardrock100.com](https://www.hardrock100.com)
 
+{:.print-none}
 [![alt text](/assets/images/Facebook.jpg)](http://www.facebook.com/hardrockhundred) [![alt text](/assets/images/Instagram.jpg)](https://www.instagram.com/hardrock100run/) [![alt text](/assets/images/Twitter.jpg)](https://twitter.com/hardrock100) [![alt text](/assets/images/Google%20Groups.jpg)](https://groups.google.com/forum/#!forum/hardrock100)
