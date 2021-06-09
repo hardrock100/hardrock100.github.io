@@ -33,6 +33,7 @@
 
   h3 {
     font-size: 14px !important;
+    margin-top: 0.5em !important;
   }
 
   h4 {
@@ -68,6 +69,15 @@
  
  .text-small.text-grey-dk-100.mb-0.mr-2 {
    display: block !important;
+  }
+  
+  .table-wrapper {
+    margin-top: 0em !important;
+    margin-bottom: 0em !important;
+  }
+  
+  th, td {
+    padding: 0rem !important;
   }
 
   table.print-compressed {
