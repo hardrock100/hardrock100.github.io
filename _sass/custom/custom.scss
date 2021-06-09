@@ -57,6 +57,18 @@
   .text-small {
     font-size: 8px !important;
   }
+  
+  hr {
+    display: none !important;
+  }
+  
+ .text-small.text-grey-dk-100.mb-0 {
+   display: none !important;
+  }
+ 
+ .text-small.text-grey-dk-100.mb-0.mr-2 {
+   display: block !important;
+  }
 
   table.print-compressed {
     table-layout: fixed;
