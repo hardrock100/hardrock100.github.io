@@ -41,10 +41,13 @@
 
   p, li, td, th {
     font-size: 10px !important;
+    margin: 0px !important;
+    line-height: 1rem !important;
   }
 
   .main-content ol > li::before {
     font-size: 10px !important;
+    padding-left: 0px !important;
   }
 
   .text-small {
@@ -58,8 +61,8 @@
     th, td {
       font-stretch: condensed;
       font-size: 8px !important;
-      padding-top: 0.3rem;
-      padding-bottom: 0.3rem;
+      padding-top: 0.1rem;
+      padding-bottom: 0.1rem;
     }
   }
 }
