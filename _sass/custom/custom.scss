@@ -9,11 +9,11 @@
     display: none;
   }
   
-  .imagescreen + img {
+  .imagescreen + p {
     display: block !important;
   }
   
-  .imageprint + img {
+  .imageprint + p {
     display: none !important;
   }
   
@@ -124,11 +124,11 @@
     display: block !important;
   }
   
-  .imagescreen + img {
+  .imagescreen + p {
     display: none !important;
   }
   
-  .imageprint +img {
+  .imageprint + p {
     display: block !important;
   }
 
