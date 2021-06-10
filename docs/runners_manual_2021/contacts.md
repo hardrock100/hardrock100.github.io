@@ -8,7 +8,6 @@ last_modified_date: 2021-05-20
 
 ## Run Contacts
 
-<div class="aligntop"></div>
 |                                                                                               |                                                                                                                              |                                                                                                                   |
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | **Run Director**<br>Dale Garland<br>195 Ball Lane<br>Durango, CO 81301<br>(970) 769-2872<br>[dale@hardrock100.com](mailto:dale@hardrock100.com) | **Emergency Services Director**<br>Leo Lloyd<br>22 Animas Village Lane<br>Durango, CO 81301<br>(970) 799-2548<br>[LloydLW@durangofirerescue.org](mailto:LloydLW@durangofirerescue.org) | **Board President**<br>David Coblentz<br>[dave.coblentz@hardrock100.com](mailto:dave.coblentz@hardrock100.com)                                                     |
