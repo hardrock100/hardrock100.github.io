@@ -11,7 +11,7 @@ last_modified_date: 2021-06-02
 
 This course description is intended to be used as a general orientation and guide to the Hardrock course for runners, pacers and crew. It includes brief descriptions of routes, major drainages, landmark peaks, climbs, descents and aid stations. Pay attention to alerts and warnings (!). **It is not intended to be used as a navigation tool.**
 
-We endeavor to have a well-marked course and provide an accurate GPX file for those that wish to download it. But keep in mind that this is a huge, complex course. Unexpected things can and will happen. Marmots devour course markers and pull them into their dens. Elk trample them into the mud. Markers have been vandalized, stolen and maliciously relocated. Smartphones glitch and batteries die.
+We endeavor to have a well-marked course and provide an accurate [GPX file](https://www.hardrock100.com/files/course/HR100-Course-Counter-Clockwise.gpx) for those that wish to download it. But keep in mind that this is a huge, complex course. Unexpected things can and will happen. Marmots devour course markers and pull them into their dens. Elk trample them into the mud. Markers have been vandalized, stolen and maliciously relocated. Smartphones glitch and batteries die.
 
 Therefore, as part of a *graduate level run*, it is your responsibility to obtain and study whatever maps or other resources you deem appropriate for your experience level to safely navigate the course if markers or electronic devices fail. 
 
