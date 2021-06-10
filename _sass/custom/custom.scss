@@ -4,6 +4,10 @@
     align-items: center;
     justify-content: center;
   }
+  
+  .printonly {
+    display: none;
+  }
 }
 
 @page {
@@ -97,6 +101,10 @@
   }
   
   .printme + ul {
+    display: block !important;
+  }
+  
+  .printonly {
     display: block !important;
   }
 
