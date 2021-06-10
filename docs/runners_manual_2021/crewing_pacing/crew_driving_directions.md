@@ -6,6 +6,7 @@ grand_parent: Runners Manual 2021
 nav_order: 2
 last_modified_date: 2021-05-20
 ---
+<div class="crew_driving_directions">
 ## Crew Access Aid Station Driving Directions
 
 **Chapman Gulch**
@@ -78,3 +79,4 @@ Only one vehicle per runner will be allowed to park at Grouse. You must have you
 
 1. Take CR 2 NE from Silverton 4 miles to Cunningham Gulch following the signs to the Old Hundred Mine Tour.
 2. Just after crossing the Animas River Bridge at Howardsville, follow the signs and traffic marshals to the [parking area](https://goo.gl/maps/asAvBXAm16RrnKaq8) for shuttle boarding.
+</div>
