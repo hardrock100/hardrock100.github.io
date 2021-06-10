@@ -13,7 +13,7 @@ Hardrock annually has 14 or 15 aid stations, depending on the direction of the r
 
 While all Hardrock Aid Stations strive to maintain a high level of care for the runners, logistics such as space, access and location necessarily cause some differences in what is available. Each aid station, regardless of location, typically goes above & beyond with a specialty "off-menu" dish for runners.
 
-**Hike-In (Kroger's Canteen, Engineer, Pole Creek):**
+**Hike-In (Putnam, Kroger's Canteen, Engineer, Pole Creek):**
 The intrepid volunteers who staff these aid stations carry in all supplies using their own strong backs (and pack animals, if available), sometimes making multiple trips. Tasks include on-site filtering of gallons of water, digging a latrine, and collecting & chopping firewood. Food variety and quantity is limited, but the essentials are available of typical aid station food groups. Their backcountry location makes it important to abide by Leave No Trace principles and keep staffing numbers smaller. No Crew Access.
 
 **Road-Side (KT, Chapman, Governors, Burrows, Maggie, Cunningham):**
