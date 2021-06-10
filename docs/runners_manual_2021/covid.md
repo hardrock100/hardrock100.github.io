@@ -23,25 +23,29 @@ Due to the uncertainty of the COVID-19 Pandemic thisplan is subject to change an
 COVID-19 testing is available To request a COVID-19 test, call San Juan County Public Health: 970-387-0242.
 
 ### Major Elements: 
-* Masks must be worn at all times. Exceptions are limited (below) {#printme}
+<div class="printme"</div>
+* Masks must be worn at all times. Exceptions are limited (below)
 * Run Briefing and Awards Breakfast moved outdoors
 * Strong suggestion that each runner limit their crew/pacers to no more than 3 
 * Discouragement of spectators / those not directly involved in the run
 
 **Masks:** 
-All participants are expected to WEAR A MASK at all times.  Exceptions are limited to: {#printme}
+All participants are expected to WEAR A MASK at all times.  Exceptions are limited to:
+<div class="printme"</div>
 * Eating/Drinking: Please individually socially distance by 6’+.
 * Runners: may remove masks when on course outside of aid stations.
 * Everyone Else: may remove masks when outside and more than 6’ distanced by household.
 
 **Start/Finish:** 
-* A perimeter will be established in the immediate vicinity of the start, limited only to runners and run staff {#printme}
+<div class="printme"</div>
+* A perimeter will be established in the immediate vicinity of the start, limited only to runners and run staff
 * Crews attending the start will be required to spread out, socially distanced by households.  The runners have 7 blocks through town - use them all!
 * While each runner deserves to be celebrated, the area by the gym is one of the hot spots for potential large crowds.  We ask that folks avoid generally hanging out by the finish. Cheer in those runners you have a personal connection to, and use the live tracking via OpenSplitTime to focus your time at the finish.
 * Runners will be allowed the traditional kissing of the Hardrock at the finish.  The rock will be sanitized between each smooch.  We discourage French kissing (unless you are French, of course).
 
 **Crews/Pacers:** 
-* Runners are strongly suggested to limit their total crew/pacers to 3 (including kids). {#printme}
+<div class="printme"</div>
+* Runners are strongly suggested to limit their total crew/pacers to 3 (including kids).
 * Crews/pacers must maintain social distancing by household when outside their vehicle.
 * While at aid stations, crews/pacers are asked to wait inside their vehicles or well away from the immediate aid area as much as reasonable.  We know cell service is extremely limited, and parking is typically single-file on a roadside, so it's not easy to see when your runner arrives.  Be patient, use good judgment and be respectful.
 * Aid stations where crew access is allowed will have relaxed boundaries for crewing to allow for social distancing.  A good rule of thumb is “within sight” of the station (roughly a quarter mile), as long as it does not interfere with vehicle traffic.
@@ -50,7 +54,8 @@ All participants are expected to WEAR A MASK at all times.  Exceptions are limit
 Spectators are strongly discouraged from attending Hardrock this year.  The run can have a high potential for large crowds, especially in Silverton-based events and at the Ouray and Telluride Aid Stations.  Help us keep our runners safe (and permits intact) by limiting attendance to those with an official role with this year’s run, and enjoy our multiple [live online tracking](https://www.hardrock100.com/) options. 
 
 **Run Headquarters:** 
-* Porta-Potties and Hand Wash station numbers will be increased.  All portos will be stocked with hand sanitizer and disinfectant spray or wipes & be regularly sanitized. {#printme}
+<div class="printme"</div>
+* Porta-Potties and Hand Wash station numbers will be increased.  All portos will be stocked with hand sanitizer and disinfectant spray or wipes & be regularly sanitized.
 * Runner and Volunteer Briefings will be held outdoors at Memorial Park.  In case of inclement weather, bring an umbrella (this is Hardrock).
 * During the run, the gym will be limited to communications, medical and post-run recovery.  Entry will only be at the NW door and exit only at the SE door.
   * A set number of tables will be available for runners to sit, eat and recover.  Only one household per table.  If capacity is reached, we will ask runners who have spent time inside to exit to allow newly finished runners to enter.
@@ -59,7 +64,8 @@ Spectators are strongly discouraged from attending Hardrock this year.  The run 
 
 **Aid Stations:** 
 Personal, one-on-one service that Hardrock prides itself on is a low priority for 2021.  Contact minimization is the greater goal.  Runners should plan to be self-sufficient as much as reasonable.
-* Masks are required in aid stations.  Boundaries (where reasonable) will be set between the service area (wear masks) and eating/drinking area (mask removal is fine with 6’ distancing). {#printme}
+<div class="printme"</div>
+* Masks are required in aid stations.  Boundaries (where reasonable) will be set between the service area (wear masks) and eating/drinking area (mask removal is fine with 6’ distancing).
 * No communal food bowls.  Runners will not have direct access to the food.  A masked/gloved volunteer will distribute individual servings in individual plates/bowls/cups and sanitize the serving table between each runner.
 * Fluid service is no-touch.  Runners must open their own bottles/bladders, and a masked/gloved volunteer pours.  If contact is made, serving pitchers will be sanitized.
 * Aid stations where crews are allowed will:
@@ -75,7 +81,8 @@ Safety and Medical Personnel will be staffed to full levels at the start/finish 
 
 **Escalation:** 
 We acknowledge that COVID cases could spike to the point where additional restrictions are required, but the run is still safe to hold in a more limited format. Those additional limitations could include:
-* Packet Pickup {#printme}
+<div class="printme"</div>
+* Packet Pickup
   * Runners will enter/exit the gym in a single-direction line, and be limited on how many may enter the gym at a time.  Check in stations will be 8 feet apart. Those waiting in line will have marked spaces to maintain social distancing.
 * Awards Breakfast
   * No food service
