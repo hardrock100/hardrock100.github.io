@@ -91,6 +91,14 @@
   .text-delta {
     display: none !important;
   }
+  
+  ul {
+    display: none !important;
+  }
+  
+  .printme + ul {
+    display: block !important;
+  }
 
   table.print-compressed {
     table-layout: fixed;
