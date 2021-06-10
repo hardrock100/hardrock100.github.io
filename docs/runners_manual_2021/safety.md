@@ -9,6 +9,7 @@ last_modified_date: 2021-06-03
 ## Safety
 
 This is a dangerous course! In addition to trail running, you will likely:
+<div class="printme"></div>
 * Wade knee-deep, ice-cold streams
 * Cross snow fields in both slick and post-holing conditions
 * Traverse trails with 300’+ cliffs immediately to one side
