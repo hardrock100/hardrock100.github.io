@@ -97,7 +97,7 @@ last_modified_date: 2021-05-20
 | 0600      | Last Official Finisher | Silverton Gym |
 | 1100      | Awards Breakfast       | Memorial Park | Come celebrate and share stories with your fellow runners and volunteers! It’s a perfect end to Hardrock! |
 
-
+<div class="printme"></div>
 * American Legion  1069 Greene St.
 * [Avalanche Brewing](http://www.avalanchebrewing.com/)  1151 Greene St. 
 * [Bent Elbow Restaurant](https://thebent.com/)   1114 Blair St.
