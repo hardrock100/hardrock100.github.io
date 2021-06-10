@@ -8,6 +8,14 @@
   .printonly {
     display: none;
   }
+  
+  .imagescreen + img {
+    display: block !important;
+  }
+  
+  .imageprint +img {
+    display: none !important;
+  }
 }
 
 @page {
@@ -105,6 +113,14 @@
   }
   
   .printonly {
+    display: block !important;
+  }
+  
+  .imagescreen + img {
+    display: none !important;
+  }
+  
+  .imageprint +img {
     display: block !important;
   }
 
