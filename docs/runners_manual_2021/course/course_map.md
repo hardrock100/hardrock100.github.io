@@ -15,4 +15,6 @@ last_modified_date: 2021-05-20
     </embed>
 </object>
 
+<img src="https://github.com/hardrock100/hardrock100.github.io/blob/master/assets/images/HR21_map_v1.jpg" class="printonly">
+
 <p><a href="https://www.hardrock100.com/files/course/HR100-2021-CCW-Map.pdf">Download PDF</a>.</p>
