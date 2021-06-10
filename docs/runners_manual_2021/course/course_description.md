@@ -31,7 +31,7 @@ Descend a steep miners trail into Cunningham Gulch. Cross Cunningham Creek and e
 
 ### [Cunningham Gulch Aid Station](https://goo.gl/maps/2Gz1D5rsuK1CKX8s7) - Mile 9.3 - 10,380'
 
-The aid station is located by the horse corrals on the south side of the road. Proceed south on CR4 0.2 mile, look (!) for a single track trail on the left and begin climbing to Green Mountain. Note that there can be large herds of sheep grazing in Green Mountain Basin. Guard dogs may be present and aggressive. Do your best to go well around the sheep and dogs.
+Proceed south on CR4 0.2 mile, look (!) for a single track trail on the left and begin climbing to Green Mountain. Note that there can be large herds of sheep grazing in Green Mountain Basin. Guard dogs may be present and aggressive. Do your best to go well around the sheep and dogs.
 
 #### Climb #2 - Green Mountain/Stony Pass Ridge - Mile 12.2 - 12,980'
 
@@ -43,15 +43,13 @@ Begin the descent into Maggie Gulch. Note that the location of the initial drop 
 
 ### [Maggie Gulch Aid Station](https://goo.gl/maps/DkaGxF4MDXwUQBYG7) - Mile 15.4 - 11,840' 
 
-The aid station is located at the end of a rough, narrow 4WD road with steep drops. Leave the aid station and begin climbing and traversing NE towards the Continental Divide. 
+Leave the aid station and begin climbing and traversing NE towards the Continental Divide. 
 
 #### Climb #4 - Maggie/Pole Pass - Mile 16.3 - 12,530'
 
 Cross the Continental Divide Trail (CDT) and descend SE into the West Fork of Pole Creek. Do not (!) go north or south on the CDT.  You are now on the east side of the Continental Divide. Between here and the next aid station are huge willow stands and numerous wetlands. The Pole Creek elk are notorious for trampling course markers in this area. Slow down (!) and carefully navigate this section.
 
 ### [Pole Creek Aid Station](https://goo.gl/maps/H1kyTqJc7XD3M3K46) - Mile 19.7 - 11,460' 
-
-The aid station is located on a small ridge on the north side of the North Fork of Pole Creek, 100 yards west of a small pond.
 
 Depart the aid station, cross the North Fork of Pole Creek and begin ascending the Main Fork of Pole Creek NNE towards the Continental Divide. This area contains complex terrain with lots of side drainages. Many runners have gotten off-course here. Slow down (!) and carefully navigate this section. 
 
@@ -61,7 +59,7 @@ Cross the CDT again. Do not (!) go east or west on the CDT. You are now back on 
 
 ### [Sherman Aid Station](https://goo.gl/maps/B5CWygKVtnGXPyGG7) - Mile 28.8 - 9640'
 
-The aid station is located in the wide gravel lot at the Cottonwood Creek trailhead. Depart the aid station east on the county road. Run approximately 0.5 mile, cross the bridge over the East Fork of the Gunnison River. Around 40 yards past the bridge, look (!) for a faint trail on the left ascending into the trees. Follow this for 0.25 mile up to Cinnamon Pass Road. (This 0.25 mile section is on private land. Do not leave the trail.) Take a left on the Cinnamon Pass Road (aka Shelf Road) heading NW. There will be traffic.
+Depart the aid station east on the county road. Run approximately 0.5 mile, cross the bridge over the East Fork of the Gunnison River. Around 40 yards past the bridge, look (!) for a faint trail on the left ascending into the trees. Follow this for 0.25 mile up to Cinnamon Pass Road. (This 0.25 mile section is on private land. Do not leave the trail.) Take a left on the Cinnamon Pass Road (aka Shelf Road) heading NW. There will be traffic.
 
 ### [Burrows Park Aid Station](https://goo.gl/maps/nfJ8jZvB1AZnzCQ46) - Mile 32.6 - 10,410' 
 
@@ -77,7 +75,7 @@ Cross the high saddle with some faint trails going off in various directions. Sl
 
 ### [Grouse Gulch Aid Station](https://goo.gl/maps/pNRjDeX3D5e1LzKP9) - Mile 42.2- 10,710' 
 
-The aid station is located just south of the bridge over the Animas River on CR2. Depart the aid station NNW on the Engineer Pass Road, passing through the headwaters of the Animas River.  This section is part of the Alpine Loop, a busy OHV route. Depending on time of day, there could be lots of traffic. Ascend 5.1 miles towards Engineer Pass, taking care not to turn off onto numerous side roads. Before getting to the true summit of Engineer Pass, look (!) for a short spur road to the left (west) heading toward Oh! Point. Turn down this spur road for 0.1mi. This is the top of the climb. Do not (!) go to Engineer Pass.
+Depart the aid station NNW on the Engineer Pass Road, passing through the headwaters of the Animas River.  This section is part of the Alpine Loop, a busy OHV route. Depending on time of day, there could be lots of traffic. Ascend 5.1 miles towards Engineer Pass, taking care not to turn off onto numerous side roads. Before getting to the true summit of Engineer Pass, look (!) for a short spur road to the left (west) heading toward Oh! Point. Turn down this spur road for 0.1mi. This is the top of the climb. Do not (!) go to Engineer Pass.
 
 #### Climb #8 - Oh! Point - Mile 47.2 - 12,910'
 
@@ -85,28 +83,24 @@ Turn off the spur road before reaching Oh! Point onto a steep, faint trail. As t
 
 ### [Engineer Aid Station](https://goo.gl/maps/MnicwkAjmUvZa5Gv6) - Mile 48.7 - 11,800' 
 
-The aid station is located at where the trail reaches treeline. Depart the aid station NW on the Ouray Bear Creek Trail. The trail is initially faint but quickly becomes easier to follow. Trail alert (!)- the Ouray Bear Creek Trail soon enters a steep, narrow gorge. While the trail is generally good (sans rockslides), there are potential hazards including rock fall, huge vertical drops off the left side of the trail and potentially difficult stream crossings in the event of heavy rain. Use caution all the way to the highway. And lean to the right. Cross over the US Highway 550 tunnel at mile 53.8. From here, all the way to the north end of the town of Ouray, slow down (!) and navigate carefully. Follow the course markers as you traverse a complex route of faint trails, dirt roads and paved roads.
+Depart the aid station NW on the Ouray Bear Creek Trail. The trail is initially faint but quickly becomes easier to follow. Trail alert (!)- the Ouray Bear Creek Trail soon enters a steep, narrow gorge. While the trail is generally good (sans rockslides), there are potential hazards including rock fall, huge vertical drops off the left side of the trail and potentially difficult stream crossings in the event of heavy rain. Use caution all the way to the highway. And lean to the right. Cross over the US Highway 550 tunnel at mile 53.8. From here, all the way to the north end of the town of Ouray, slow down (!) and navigate carefully. Follow the course markers as you traverse a complex route of faint trails, dirt roads and paved roads.
 
 ### [Ouray Aid Station](https://goo.gl/maps/3GzYcNe79jseZ7K27) - Mile 56.6 - 7680' 
 
-Low point of the Hardrock 100. The aid station is located in Fellin Park, on the north side of the gazebo.
-
-Depart the aid station by crossing the Animas River on a footbridge, then turn south. Again, slow down (!) and navigate carefully while departing Ouray on a mixed system of  dirt roads and trails. Hit the Camp Bird Road, turn right and start ascending. At the Camp Bird Mine, stay right (!) heading towards Yankee Boy Basin. Follow markers towards Governors Basin, cross Sneffels Creek and enter the aid station. 
+Low point of the Hardrock 100. Depart the aid station by crossing the Animas River on a footbridge, then turn south. Again, slow down (!) and navigate carefully while departing Ouray on a mixed system of  dirt roads and trails. Hit the Camp Bird Road, turn right and start ascending. At the Camp Bird Mine, stay right (!) heading towards Yankee Boy Basin. Follow markers towards Governors Basin, cross Sneffels Creek and enter the aid station. 
 
 ### [Governors Basin Aid Station](https://goo.gl/maps/2PhCjYXSmMYfG2Mv5) - Mile 64.5 - 10,780' 
-
-The aid station is located at a gravel pull-off on the north side of Camp Bird Road just after the bridge over Sneffels Creek.
 
 Depart the aid station SW and begin a complex route of off-trail, trails and mining roads. Slow down (!) and navigate carefully. Approaching Virginius Pass, there will be 3 steps of high and moderate angle terrain. The final steep step to the pass will usually have snow, even in dry years. There may be a fixed line here for safety. Use caution (!), as falls here are possible and be mindful of rock fall from above and dropping rocks on runners below.
 
 ### [Kroger’s Canteen Aid Station](https://goo.gl/maps/8iURLBD3vSh59R91A) - Mile 67.8 - 13,100' 
 #### Climb #9 - Virginius Pass
 
-The aid station is located in the small notch at the top of Virginius Pass. Enter the most spectacular (and improbable) aid station in ultrarunning. Enjoy the hospitality briefly as there is very limited space. Exit via a steep, loose trail SW using caution (!) to stay on the trail which soon traverses to the right. Runners have gotten off-course here and headed straight down. Cross Mendota Ridge, enter Liberty Bell Basin, get on the Cornet Creek Trail and run into Telluride. Follow course markers on paved streets through Telluride to the aid station at Town Park.
+Enter the most spectacular (and improbable) aid station in ultrarunning. Enjoy the hospitality briefly as there is very limited space. Exit via a steep, loose trail SW using caution (!) to stay on the trail which soon traverses to the right. Runners have gotten off-course here and headed straight down. Cross Mendota Ridge, enter Liberty Bell Basin, get on the Cornet Creek Trail and run into Telluride. Follow course markers on paved streets through Telluride to the aid station at Town Park.
 
 ### [Telluride Aid Station](https://goo.gl/maps/EtqsdT7jCpmXztTW9) - Mile 72.8 - 8750'
 
-The aid station is located in the main town park under the pavilion. Exit the aid station SSW, cross a field and climb a short hill to the Bear Creek Trail (a road closed to motorized vehicles). Take a left and ascend. At mile 75 look (!) for the Wasatch Trail on the right. Approaching the Wasatch Saddle, slow down (!) and navigate carefully through intersections with system trails and faint social trails. Cross the saddle into Bridal Veil Basin, then turn south towards Oscar's Pass. 
+Exit the aid station SSW, cross a field and climb a short hill to the Bear Creek Trail (a road closed to motorized vehicles). Take a left and ascend. At mile 75 look (!) for the Wasatch Trail on the right. Approaching the Wasatch Saddle, slow down (!) and navigate carefully through intersections with system trails and faint social trails. Cross the saddle into Bridal Veil Basin, then turn south towards Oscar's Pass. 
 
 #### Climb #10 - Oscar’s Pass - Mile 79.2 - 13,140'
 
@@ -114,7 +108,7 @@ Descend south off of the pass on the old Blixt Jeep Road into the trees until yo
 
 ### [Chapman Gulch Aid Station](https://goo.gl/maps/Ly91pxgiTBXDUSBV6) - Mile 82.1 - 10,190' 
 
-The aid station is located in the first large clearing encountered along the trail heading south off Ophir Pass Road. Exit south out of the aid station and ascend Swamp Canyon with South Lookout Peak on the left and US Grant Peak on the right. Climb above timberline and into the top of the drainage. There is a steep couloir going up the last few hundred vertical feet to the pass. Pick the most appealing route up the scree and begin climbing. Caution (!)- there is potential for injuries from rockfall in the couloir. Be mindful of runners above and below.
+Exit south out of the aid station and ascend Swamp Canyon with South Lookout Peak on the left and US Grant Peak on the right. Climb above timberline and into the top of the drainage. There is a steep couloir going up the last few hundred vertical feet to the pass. Pick the most appealing route up the scree and begin climbing. Caution (!)- there is potential for injuries from rockfall in the couloir. Be mindful of runners above and below.
 
 #### Climb #11 - Grant Swamp Pass - Mile 85.6 - 12,920'
 
@@ -124,7 +118,7 @@ Take a left on the Ice Lakes Trail, run 0.25 mile downhill and look (!) for the 
 
 ### [KT Aid Station](https://goo.gl/maps/9Y36VWo28SwLo1JV7) - Mile 89.1 - 10,630'
 
-The aid station is located in a pull-off on the north side of FS 585 where the course turns south off the road to cross South Mineral Creek. Depart the aid station heading south, descending on a faint trail to the crossing of South Mineral Creek. Begin the ascent of the Porcupine drainage, crossing through high basins and timberline to a prominent saddle.
+Depart the aid station heading south, descending on a faint trail to the crossing of South Mineral Creek. Begin the ascent of the Porcupine drainage, crossing through high basins and timberline to a prominent saddle.
 
 #### Climb #12 - Porcupine Cataract Pass - Mile 91.9 - 12,230'
 
@@ -136,7 +130,7 @@ From the pass, descend steeply to a saddle between Putnam Basin and Lime Creek. 
 
 ### [Putnam Basin Aid Station](https://goo.gl/maps/3twgYeWUQrf2zukRA) - Mile 94.7 - 11,400'
 
-The aid station is located in a small clearing just below where the trail re-enters treeline.  Depart the aid station and head downstream on the Silverton Bear Creek Trail. Cross numerous talus slopes and continue descending into the trees. Cross Mineral Creek with the assistance of a fixed rope. Caution (!)- this is the biggest water crossing on the course. During high snow run-off years and following heavy rain, this can be a difficult crossing. 
+Depart the aid station and head downstream on the Silverton Bear Creek Trail. Cross numerous talus slopes and continue descending into the trees. Cross Mineral Creek with the assistance of a fixed rope. Caution (!)- this is the biggest water crossing on the course. During high snow run-off years and following heavy rain, this can be a difficult crossing. 
 
 Immediately beyond the creek is US Highway 550. Turn left and run the shoulder of the highway around 50 yards upstream. **Caution (!) - look both ways before crossing the road. It is often dark and runners are fatigued.** (Imagine that). Look (!) for markers on the east side of the highway. Ascend a short, steep slope to the Rainbow Trail. Run SE on the flat-rolling trail until it meets the Shrine Road. Turn left on the Shrine Road and climb gently until looking down on the center of Silverton. Look (!) for a marker on the right near the top of the climb and descend through a sloping field into town. Follow markers 3 blocks on town streets to the finish.
 
