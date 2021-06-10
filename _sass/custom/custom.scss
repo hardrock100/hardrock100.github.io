@@ -20,6 +20,18 @@
   .table-wrapper td {
     vertical-align: top !important;
   }
+  
+  table.print-compressed {
+    table-layout: fixed;
+    width: 620px;
+
+    th, td {
+      font-stretch: condensed;
+      font-size: 8px !important;
+      padding-top: 0.1rem;
+      padding-bottom: 0.1rem;
+    }
+  }
 }
 
 @page {
@@ -128,17 +140,6 @@
     display: block !important;
   }
 
-  table.print-compressed {
-    table-layout: fixed;
-    width: 620px;
-
-    th, td {
-      font-stretch: condensed;
-      font-size: 8px !important;
-      padding-top: 0.1rem;
-      padding-bottom: 0.1rem;
-    }
-  }
 }
 
 table td a {
