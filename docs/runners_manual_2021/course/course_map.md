@@ -15,3 +15,4 @@ last_modified_date: 2021-05-20
 <img src="https://www.hardrock100.com/images/maps/HR100-2021-CCW-Map-Sidebar_sm.png">
 
 <p><a href="https://www.hardrock100.com/files/course/HR100-2021-CCW-Map.pdf">Download PDF</a>.</p>
+<p><a href="https://www.hardrock100.com/files/course/HR100-Course-Counter-Clockwise.gpx">Download GPX</a>.</p>
