@@ -42,7 +42,8 @@
 
   p, li, td, th {
     font-size: 10px !important;
-    margin: 0px !important;
+    margin-top: 0.5rem !important;
+    margin-bottom: 0rem !important;
     line-height: 1rem !important;
   }
   
@@ -78,6 +79,10 @@
   
   th, td {
     padding: 0rem !important;
+  }
+  
+  .text-delta {
+    display: none !important;
   }
 
   table.print-compressed {
