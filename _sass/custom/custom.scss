@@ -40,9 +40,16 @@
     font-size: 11px !important;
   }
 
-  p, li, td, th {
+  p, td, th {
     font-size: 10px !important;
     margin-top: 0.5rem !important;
+    margin-bottom: 0rem !important;
+    line-height: 1rem !important;
+  }
+  
+  li {
+    font-size: 10px !important;
+    margin-top: 0rem !important;
     margin-bottom: 0rem !important;
     line-height: 1rem !important;
   }
