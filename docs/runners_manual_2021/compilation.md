@@ -1,4 +1,4 @@
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/covid/" width="100%" height="100%">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/covid/" width="100%" height="100vh">
 
 <?php include("https://hardrock100.github.io/"); ?>
 <div w3-include-html="https://hardrock100.github.io/"></div>
