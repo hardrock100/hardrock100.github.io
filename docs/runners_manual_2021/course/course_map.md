@@ -9,7 +9,7 @@ last_modified_date: 2021-05-20
 
 ## Course Map
 
-<img src="https://www.hardrock100.com/images/maps/HR100-2021-CCW-Map_sm.png" class="printonly">
+<img src="https://www.hardrock100.com/images/maps/HR100-2021-CCW-Map_sm.png">
 
 <object data="https://www.hardrock100.com/files/course/HR100-2021-CCW-Map.pdf" type="application/pdf" width="100%" height="700px">
     <embed src="https://www.hardrock100.com/files/course/HR100-2021-CCW-Map.pdf">
