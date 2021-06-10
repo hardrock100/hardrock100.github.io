@@ -13,8 +13,12 @@
     display: block !important;
   }
   
-  .imageprint +img {
+  .imageprint + img {
     display: none !important;
+  }
+  
+  .aligntop + td {
+    vertical-align: top !important;
   }
 }
 
