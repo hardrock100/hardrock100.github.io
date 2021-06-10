@@ -33,6 +33,7 @@ The Hardrock Hundred appreciates the beauty and vulnerability of the lands that 
 ### Keeping Hardrock Green
  
 A core value of Hardrock is responsibility to the lands on which we run and the communities in which we operate. It is our responsibility to reduce negative impacts every chance we get. Hardrock:
+<div class="printme"></div>
 * is a cupless event. Every aid station will have reusable cups, dishware, and a wash kit; runners do not need to carry their own cup. No disposable dishware will be provided by Run HQ.
 * is working to reduce traffic at key wilderness areas: Chapman (Ophir), Grouse, Sherman, and Cunningham in particular.
 * is constantly expanding our recycling & composting during run week – look for information at the gym.
@@ -42,6 +43,7 @@ It takes awareness and effort by everyone - runners, crews, volunteers, spectato
 Here are some ideas to help us all do even better! Keep these in mind during the run, when you are training, or just out exploring the San Juan Mountains!
  
 **Runners**
+<div class="printme"></div>
 * Don’t litter! Pick up trash you find on trail
 * Use reusable dispensers on trail and buy products in bulk
 * Embrace cupless running
@@ -50,6 +52,7 @@ Here are some ideas to help us all do even better! Keep these in mind during the
 * Practice low-impact use of the wilderness any time you are on the trail
  
 **Crews**
+<div class="printme"></div>
 * Bring supplies such as reusable cups, plates, and utensils
 * Collect recyclables and make sure they get recycled
 * Reduce the number of vehicles going to aid stations – carpool!
@@ -61,6 +64,7 @@ Here are some ideas to help us all do even better! Keep these in mind during the
 * Pick up after your pets
  
 **Volunteers**
+<div class="printme"></div>
 * Help runners be cupless.
 * Carpool and Limit cars to aid stations as much as possible.
 * Separate recyclables and compostables into the provided containers
