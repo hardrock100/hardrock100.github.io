@@ -10,6 +10,10 @@ table.print-compressed {
     }
   }
 
+table {break-inside: avoid;}
+img {break-inside: avoid;}
+p {break-inside: avoid;}
+
 @media screen {
   .box-centered {
     display: flex;
@@ -138,12 +142,7 @@ table.print-compressed {
   
   .imageprint + p {
     display: block !important;
-  }
-
-  table {break-inside: avoid;}
-  img {break-inside: avoid;}
-  p {break-inside: avoid;}
- 
+  } 
 }
 
 table td a {
