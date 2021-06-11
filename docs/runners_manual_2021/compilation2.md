@@ -8,7 +8,7 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/schedule/" width="100%" height="2560px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/course/" width="100%" height="450px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/course/" width="100%" height="1000px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/course_description/" width="100%" height="26Honestl00px">
 
