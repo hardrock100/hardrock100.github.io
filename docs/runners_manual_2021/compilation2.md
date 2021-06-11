@@ -31,5 +31,3 @@
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/scholarship/" width="100%" height="420px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/contacts/" width="100%" height="500px">
-
-aaf
