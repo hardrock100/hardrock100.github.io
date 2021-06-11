@@ -6,7 +6,7 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/rules/" width="100%" height="370px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/schedule/" width="100%" height="1600px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/schedule/" width="100%" height="1620px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/course/" width="100%" height="1000px">
 
