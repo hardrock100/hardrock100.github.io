@@ -3,7 +3,7 @@ layout: default
 title: Partners
 parent: Runners Manual 2021
 nav_order: 10
-last_modified_date: 2021-05-20
+last_modified_date: 2021-06-01
 ---
 
 ## Partners
