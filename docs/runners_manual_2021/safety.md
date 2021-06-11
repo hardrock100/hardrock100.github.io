@@ -63,7 +63,7 @@ The course passes by several snow features whose danger varies year-to-year.  La
  
 If you encounter a person who is injured, first GET HELP through official run channels, then keep the victim warm.  All aid stations are staffed by at least an EMT, have a first aid kit, and have radio communication.  
  
-Additionally, each runner carries a SPOT tracker which is used to pinpoint their location at all times.  A SOS signal via the SPOT can be triggered by ____________.
+Additionally, each runner carries a SPOT tracker which is used to pinpoint their location at all times.
  
 Most medical problems will be relatively minor: sunburn, blisters, sprains, abrasions, and fatigue. In the later stages of the run, runners may also be dehydrated, fatigued, nauseated and/or hallucinating.  Stretches between aid stations can last 6 hours or more.  Be aware of these factors as you plan for your run.
  
