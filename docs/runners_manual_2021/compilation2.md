@@ -20,7 +20,7 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/solar_lunar/" width="100%" height="350px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/crewing_pacing/crewing_pacing/" width="100%" height="450px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/crewing_pacing/crewing_pacing/" width="100%" height="455px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/crewing_pacing/crew_driving_directions/" width="100%" height="1300px">
 
