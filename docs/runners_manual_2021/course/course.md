@@ -19,3 +19,12 @@ The altitude range of this run (7,700 to 14,000+ feet) takes the runner through 
 In the summer, animal life is abundant. You will almost certainly see elk in the high meadows, possibly with their young. Stay clear of elk: they can be ornery at times. Bears (black, not grizzlies) are present, though seldom seen. Mountain lions may also be encountered.
 
 The run is a salute to the toughness and perseverance of the hardrock miners who lived and worked in the area.
+
+<div class="imagescreen"></div>
+<img src="https://www.hardrock100.com/images/maps/HR100-2021-CCW-Map-Sidebar-Screen_sm.png">
+
+<div class="imageprint"></div>
+<img src="https://www.hardrock100.com/images/maps/HR100-2021-CCW-Map-Sidebar_sm.png">
+
+<p><a href="https://www.hardrock100.com/files/course/HR100-2021-CCW-Map.pdf">Download PDF</a>.</p>
+<p><a href="https://www.hardrock100.com/files/course/HR100-Course-Counter-Clockwise.gpx">Download GPX</a>.</p>
