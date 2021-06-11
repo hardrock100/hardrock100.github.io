@@ -4,7 +4,7 @@ title: Aid Station Table
 parent: Course
 grand_parent: Runners Manual 2021
 nav_order: 3
-last_modified_date: 2021-05-20
+last_modified_date: 2021-06-01
 ---
 
 ## Aid Station Table
@@ -24,7 +24,7 @@ last_modified_date: 2021-05-20
 | Kroger’s   | 67.8  | 3.3     | 2320  | 0       | Fri 1915  | Sat 1100      | None     | Hike     | RFW      | No                  | 37.9616° -107.7717°  |
 | Telluride  | 72.8  | 5       | 40    | \-4390  | Fri 2015  | Sat 1250      | Sat 1645 | Auto     | RDFW     | Yes                 | 37.9353° -107.8071°  |
 | Chapman    | 82.1  | 9.3     | 4500  | \-3090  | Fri 2215  | Sat 1840      | Sat 2130 | Auto 4WD | RDFW     | Hike In Only        | 37.8557° -107.8044°  |
-| KT         | 89.1  | 7       | 2920  | \-2450  | Sat 0230   | Sat 2315      | Sun 130  | 4WD      | RFW      | No                 | 37.7916° -107.7939°  |
+| KT         | 89.1  | 7       | 2920  | \-2450  | Sat 0230   | Sat 2315      | Sun 130  | 4WD      | RFW      | No                 | 37.7890° -107.7972°  |
 | Putnam     | 94.7  | 5.6     | 2425  | \-1455  | Sat 0330   | Sun 0320       | None     | Hike     | RFW      | No                  | 37.7804° -107.7310°  |
 | Silverton  | 100.5 | 5.8     | 324   | \-2614  | Sat 0430   | Sun 0600       | Sun 0600  | Auto     | RDFW     | Yes                 | 37.8114° -107.6663°  |
 
