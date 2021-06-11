@@ -72,7 +72,7 @@ aux_links:
   "Main Hardrock Site":
     - "https://www.hardrock100.com"
   "Download PDF":
-    - "/pdf/runners_manual_2021.pdf"
+    - "/pdf/HR100-2021-Hardrock-Runners-Manual.pdf"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
