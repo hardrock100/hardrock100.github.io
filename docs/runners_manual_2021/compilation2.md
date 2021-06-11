@@ -2,9 +2,9 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/runners_manual/" width="100%" height="405px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/covid/" width="100%" height="1560px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/covid/" width="100%" height="1570px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/rules/" width="100%" height="360px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/rules/" width="100%" height="370px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/schedule/" width="100%" height="2560px">
 
