@@ -6,7 +6,7 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/rules/" width="100%" height="370px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/schedule/" width="100%" height="1800px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/schedule/" width="100%" height="1500px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/course/" width="100%" height="1000px">
 
@@ -31,3 +31,4 @@
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/scholarship/" width="100%" height="420px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/contacts/" width="100%" height="500px">
+aaa
