@@ -1,3 +1,15 @@
+table.print-compressed {
+    table-layout: fixed;
+    width: 620px;
+
+    th, td {
+      font-stretch: condensed;
+      font-size: 8px !important;
+      padding-top: 0.1rem;
+      padding-bottom: 0.1rem;
+    }
+  }
+
 @media screen {
   .box-centered {
     display: flex;
@@ -20,37 +32,13 @@
   table.table-wrapper td {
     vertical-align: top !important;
   }
-  
-  table.print-compressed {
-    table-layout: fixed;
-    width: 620px;
-
-    th, td {
-      font-stretch: condensed;
-      font-size: 8px !important;
-      padding-top: 0.1rem;
-      padding-bottom: 0.1rem;
-    }
-  }
 }
 
 @page {
   margin: 30pt;
 }
 
-@media print {
-   table.print-compressed {
-    table-layout: fixed;
-    width: 620px;
-
-    th, td {
-      font-stretch: condensed;
-      font-size: 8px !important;
-      padding-top: 0.1rem;
-      padding-bottom: 0.1rem;
-    }
-  }
-  
+@media print {  
   .breadcrumb-nav, .site-header {
     display: none !important;
   }
