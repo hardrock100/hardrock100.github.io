@@ -10,6 +10,9 @@ table.print-compressed {
     }
   }
 
+table {break-inside: avoid !important;}
+img {break-inside: avoid !important;}
+
 @media screen {
   .box-centered {
     display: flex;
