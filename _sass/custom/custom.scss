@@ -140,6 +140,9 @@
     display: block !important;
   }
 
+  table {break-inside: avoid;}
+  img {break-inside: avoid;}
+  p {break-inside: avoid;}
 }
 
 table td a {
