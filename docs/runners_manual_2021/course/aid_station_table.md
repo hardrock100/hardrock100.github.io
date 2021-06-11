@@ -6,10 +6,7 @@ grand_parent: Runners Manual 2021
 nav_order: 3
 last_modified_date: 2021-05-20
 ---
-<style>table.print-compressed {
-    table-layout: fixed;
-    width: 620px;
-</style>
+
 ## Aid Station Table
 
 {:.print-compressed}
