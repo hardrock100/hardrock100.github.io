@@ -73,7 +73,8 @@ All Search and Rescue missions are initiated by the Run Director.
  
 Hardrock purchases a CORSAR Card (Colorado Search and Rescue) for every runner. These will be available at Runner Check-In. It is highly recommended that crews and pacers also purchase a CORSAR Card.
  
-All runners are required to carry a run-provided GPS Tracking device from [MAProgress](http://maprogress.com/). This will facilitate our efforts to locate and access you more efficiently in a Search and Rescue operation. Training on the operations of this device will be provided prior to the run as part of packet pickup.
+All runners are required to carry a run-provided GPS Tracking device from [MAProgress](http://maprogress.com/). This will facilitate our efforts to locate and access you more efficiently in a Search and Rescue operation. Training on the operations of this device will be provided prior to the run as part of packet pickup. To send an S.O.S. alert via the tracking device, open the protective flap then press and hold the S.O.S. button until the function light blinks green.
+
  
 **Dropping Out**
  
