@@ -10,8 +10,6 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/course/" width="100%" height="1000px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/course_description/" width="100%" height="26Honestl00px">
-
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/aid_station_table/" width="100%" height="750px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual_2021/course/aid_stations/" width="100%" height="800px">
