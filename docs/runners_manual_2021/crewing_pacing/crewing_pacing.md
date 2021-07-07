@@ -22,7 +22,7 @@ last_modified_date: 2021-05-20
 12. All pacers must check-in with aid station personnel and sign a waiver at the respective aid station where they intend to join their runner. This can also be done pre-run at runner check-in. Upon signing the waiver, pacers will receive a wristband. This wristband must be worn while on course with their runner.
 13. Pacers are not allowed to leave vehicles at Grouse or Chapman Gulch/Ophir to be picked up after the run.
 14. Pacers must run at least the whole leg to the next crew access or specifically allowed aid station, as there is generally no access for them in between. 
-15. Pacers may not continue unless accompanying their runner.
+15. Runners are limited to a single pacer at a time. Pacers may not continue unless accompanying their runner.
  
 Pacers are allowed from Grouse (Mile 42.2) to the finish. Pacers may also start or stop at crew access aid stations (Ouray, Telluride, Chapman). 
  
