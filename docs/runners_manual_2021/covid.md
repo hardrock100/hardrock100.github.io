@@ -3,11 +3,20 @@ layout: default
 title: COVID-19 Protocols
 parent: Runners Manual 2021
 nav_order: 1
-last_modified_date: 2021-05-20
+last_modified_date: 2021-07-07
 ---
 
 <div style="page-break-after: always; break-after: page;"></div>
 
+## Update July 7, 2021
+
+<span style="color: red;">After a conversation with the head  San Juan County Public Health, and based on the current recommendations from higher level authorities and the current local levels of COVID-19, our COVID protocols are being significantly eased.</span>
+
+1) The Runners Briefing and Awards Breakfast will be held outdoors in Memorial Park. Please be sure to bring umbrellas, chairs, water and sunscreen.
+2) We continue to strongly recommend vaccination for all participants, and the mask mandate for all has been downgraded to a strong recommendation for unvaccinated participants. If you are unvaccinated, please consider wearing a mask when interacting with others, especially when indoors or at aid stations.
+3) Friday morning check in will be held in the school gymnasium. Only runners will be allowed in the gym while crews and family members may wait outside.
+4) The remaining protocols from the original list below are still considered best practice, but are no longer required
+ 
 ## 2021 COVID-19 Safety Protocols
 
 Our goal is a COVID safe yet fulfilling run experience. Our safety protocols are focused on achieving this goal by requiring masks, minimizing mass gatherings, and reducing contact points. **We recommend in the strongest possible terms that all participants (runners, crews/pacers, volunteers, spectators, etc.) come fully vaccinated.**
