@@ -18,7 +18,7 @@ last_modified_date: 2021-07-07
 
 3) Friday morning check in will be held in the school gymnasium. Only runners will be allowed in the gym while crews and family members may wait outside.
 
-4) The remaining protocols from the original list below are still considered best practice, but are no longer required
+4) The remaining protocols from the original list below are still considered best practice, but are no longer required.
  
 ## 2021 COVID-19 Safety Protocols
 
