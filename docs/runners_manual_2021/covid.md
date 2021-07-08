@@ -10,11 +10,14 @@ last_modified_date: 2021-07-07
 
 ## Update July 7, 2021
 
-<span style="color: red;">After a conversation with the head  San Juan County Public Health, and based on the current recommendations from higher level authorities and the current local levels of COVID-19, our COVID protocols are being significantly eased.</span>
+<span style="color: red;">After a conversation with the head of San Juan County Public Health, and based on the current recommendations from higher level authorities and the current local levels of COVID-19, our COVID protocols are being significantly eased.</span>
 
 1) The Runners Briefing and Awards Breakfast will be held outdoors in Memorial Park. Please be sure to bring umbrellas, chairs, water and sunscreen.
+
 2) We continue to strongly recommend vaccination for all participants, and the mask mandate for all has been downgraded to a strong recommendation for unvaccinated participants. If you are unvaccinated, please consider wearing a mask when interacting with others, especially when indoors or at aid stations.
+
 3) Friday morning check in will be held in the school gymnasium. Only runners will be allowed in the gym while crews and family members may wait outside.
+
 4) The remaining protocols from the original list below are still considered best practice, but are no longer required
  
 ## 2021 COVID-19 Safety Protocols
@@ -29,7 +32,7 @@ Those not cooperating will be asked to leave and could be subject to disqualific
 
 For purposes of the run, we consider your “household” to be the runner together with their crew/pacers.  We ask social distancing by household under that definition, and leave it to individual runners if they want further restrictions within their household.
 
-Due to the uncertainty of the COVID-19 Pandemic thisplan is subject to change and subject to modifications based on current conditions and public health orders.
+Due to the uncertainty of the COVID-19 Pandemic this plan is subject to change and subject to modifications based on current conditions and public health orders.
 
 COVID-19 testing is available To request a COVID-19 test, call San Juan County Public Health: 970-387-0242.
 
