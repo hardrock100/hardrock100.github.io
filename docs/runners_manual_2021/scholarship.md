@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Joel Zucker Memorial Scholarship
-parent: Runners Manual 2021
+parent: Runners Manual 2022
 nav_order: 8
 last_modified_date: 2021-05-20
 ---
