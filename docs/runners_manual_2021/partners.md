@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Partners
-parent: Runners Manual 2021
+parent: Runners Manual 2022
 nav_order: 10
-last_modified_date: 2021-06-01
+last_modified_date: 2022-04-24
 ---
 
 ## Partners
@@ -20,7 +20,7 @@ Many thanks to our plethora of partners, whose support takes Hardrock to the nex
 
 #### Diamond Partners
 
-[![alt text](/assets/images/HR100-Partner-Altra.jpg)](http://www.altrarunning.com/) [![alt text](/assets/images/HR100-Partner-Tailwind.jpg)](http://www.tailwindnutrition.com/)
+[![alt text](/assets/images/HR100-Partner-Altra.jpg)](http://www.altrarunning.com/) [![alt text](/assets/images/HR100-Partner-Tailwind.png)](http://www.tailwindnutrition.com/)
 
 [![alt text](/assets/images/HR100-Partner-Black-Diamond.png)](https://www.blackdiamondequipment.com/en_US/) [![alt text](/assets/images/HR100-Partner-Trail-Runner-Mag.jpg)](http://trailrunnermag.com/)
 
