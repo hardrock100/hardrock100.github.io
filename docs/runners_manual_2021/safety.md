@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Safety
-parent: Runners Manual 2021
+parent: Runners Manual 2022
 nav_order: 6
 last_modified_date: 2021-06-14
 ---
