@@ -22,4 +22,4 @@ Drop bags may be dropped off at the American Legion building (11th and Greene) b
  
 Please weatherproof your bags as much as is reasonable. We cannot guarantee full weather protection for every bag. That can be as simple as putting your clothing in a Ziplock bag inside the main bag.
  
-Drop bags will be returned to the Legion by the end of the Awards Breakfast on Sunday.
+Drop bags will be returned to the Legion progressively as aid stations close, with all returned by the end of the Awards Breakfast on Sunday.
