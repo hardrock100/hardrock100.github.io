@@ -20,7 +20,7 @@ last_modified_date: 2022-04-25
 10. No drones will be permitted unless a permit has been secured through the Bureau of Land Management AND HardrockHundred Endurance Run.
 11. Runners will be issued a single crew pass, allowing one crew vehicle to park in designated areas for the Cunningham, Grouse Gulch and Chapman Gulch aid stations. While through traffic will be allowed in those areas, only vehicles with a pass will be allowed to stop or park.  Vehicles looking to park without a crew pass may be directed multiple miles away from the aid station.
 12. All pacers must check-in with aid station personnel and sign a waiver at the respective aid station where they intend to join their runner. This can also be done pre-run at runner check-in. Upon signing the waiver, pacers will receive a wristband. This wristband must be worn while on course with their runner.
-13. Pacers are not allowed to leave vehicles at Grouse or Chapman Gulch/Ophir to be picked up after the run.
+13. Pacers are not allowed to leave vehicles at Grouse, Sherman or Cunningham Gulch Aid Stations to be picked up after the run.
 14. Pacers must run at least the whole leg to the next crew access or specifically allowed aid station, as there is generally no access for them in between. 
 15. Runners are limited to a single pacer at a time. Pacers may not continue unless accompanying their runner.
  
