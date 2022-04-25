@@ -64,7 +64,7 @@ last_modified_date: 2021-06-11
 | 1900 | Ledlenser Trails in Motion Film Tour | Silverton Gym | Sit back, relax and enjoy this year's Trails In Motion lineup of new films!! Free but donations are appreciated.  |
 
 
-### Thursday, July 15
+### Thursday, July 14
 
 | --------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1100 | Runner Check-In                                                                | Silverton Gym                                                                                                                                                                                                                               | Sure you want to run?? This is the first step. Pick up all your info and SPOT Tracker, reconnect with friends old and new and buy some Hardrock SWAG. ALL RUNNERS MUST BE CHECKED IN BY 11:00. Any spots not claimed will be given to wait listed runners based on their position on their respective waitlists. |
@@ -77,20 +77,20 @@ last_modified_date: 2021-06-11
 | 1500      | Drop Bag Deadline                                                              | American Legion                                                                                                                                                                                                                             | Make sure you’ve got everything packed because it’s headed out at 15:15!!                                                                                                                                                                                                                                        |
 | 1800-2000      | San Juan County SAR Fundraiser Dinner                                                              | Grand Imperial                                                                                                                                                                                                                             | We hope you won’t need them but we’re glad Search and Rescue and EMS are  here to help us. Here is a way you can support the work they are doing. Price $15/person and you can buy tickets at the door.                                                                                                                                                                                                                                        |
 
-### Friday, July 16
+### Friday, July 15
 
 | --------- | --------------------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0445 | Pre-Run Breakfast | Natalia's, Bent Elbow, Coffee Bear                      | Up and at ’em early. Join us at (?) Natalia’s, Bent Elbow and Coffee Bear for a quick bite to eat before you go. If you don’t want to wake up that early then they’ll be open after your crews come back from the river crossing |
 | 0500-0545 | Final Runner Check-In | Silverton Gym                      | This is so exciting!! ALL RUNNERS MUST BE CHECKED IN BY 5:45a OR LOSE THEIR SPOT! DON’T LAUGH - IT’S HAPPENED!                                                                                                                        |
 | 0600      | Runner Send Off       | Silverton Gym                      | You’re off!!!!  Have fun, be safe and we’ll see you at the rock when you return!! Parking is restricted at Cunningham Gulch Aid Station so have your crew catch a free shuttle at the Old Hundred Mine. |
 
-### Saturday, July 17
+### Saturday, July 16
 
 | --------- | ---------------------- | ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Morning   | First Finishers Arrive | Silverton Gym | Follow runners' progress on MAProgress, our website and Hardrock social media;  be there to welcome the first runners back to Silverton for their rendezvous with the rock!                                                    |
 | 1000-1800  | Hardblock Street Party | Silverton Gym | There'll be music, vendor booths, a beer garden and activities for the kids right next to the finish line so plan on making a day of it! Oh yeah, don’t forget to have fun cheering on the finishers as they arrive at the rock! Also, sit and relax in the San Juan Mountains Association beverage tent. |
 
-### Sunday, July 18
+### Sunday, July 17
 
 | --------- | ---------------------- | ------------- | -------------------------------------------------------------------------------------------------------------- |
 | 0500-0600 | Golden Hour            | Silverton Gym | Cheer in those who've spent the most time enjoying the course!                                                 |
