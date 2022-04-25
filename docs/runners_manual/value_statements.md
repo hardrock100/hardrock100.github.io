@@ -36,7 +36,7 @@ A core value of Hardrock is responsibility to the lands on which we run and the 
 <div class="printme"></div>
 * is a cupless event. Every aid station will have reusable cups, dishware, and a wash kit; runners do not need to carry their own cup. No disposable dishware will be provided by Run HQ.
 * is working to reduce traffic at key wilderness areas: Chapman (Ophir), Grouse, Sherman, and Cunningham in particular.
-* is constantly expanding our recycling & composting during run week – look for information at the gym.
+* is constantly expanding our recycling & composting during run week.
  
 It takes awareness and effort by everyone - runners, crews, volunteers, spectators, media, etc. - to reduce our collective impact. 
  
