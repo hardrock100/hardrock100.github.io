@@ -3,7 +3,7 @@ layout: default
 title: Schedule
 parent: Runners Manual 2022
 nav_order: 3
-last_modified_date: 2021-06-11
+last_modified_date: 2022-04-25
 ---
 
 # Schedule
