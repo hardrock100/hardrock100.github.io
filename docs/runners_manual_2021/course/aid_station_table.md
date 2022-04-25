@@ -12,20 +12,19 @@ last_modified_date: 2021-06-01
 {:.print-compressed}
 | STATION    | Miles | Segment | Climb | Descent | Open Time | Avg 48Hr Pace | Cut Off  | Access   | Drop Bags | Crew                | Latitude & Longitude |
 | ---------- | ----- | ------- | ----- | ------- | --------- | ------------- | -------- | -------- | -------- | ------------------- | -------------------- |
-| Cunningham | 9.3   | 9.3     | 3840  | \-2770  | Fri 0700   | Fri 0850       | Fri 1045 | Auto     | Y     | Yes                 | 37.7932° -107.5777°  |
-| Maggie     | 15.4  | 6.1     | 3160  | \-1700  | Fri 0830   | Fri 1140      | None     | 4WD      |       | No                  | 37.8134° -107.5360°  |
-| Pole Creek | 19.7  | 4.3     | 960   | \-1340  | Fri 0915   | Fri 1300      | None     | Hike     |       | No                  | 37.8031° -107.4747°  |
-| Sherman    | 28.8  | 9.1     | 1390  | \-3210  | Fri 1100  | Fri 1545      | Fri 2015 | Auto 4WD | Y     | Yes                 | 37.9007° -107.4331°  |
-| Burrows    | 32.6  | 3.8     | 950   | 0       | Fri 1130  | Fri 1700      | None     | Auto     |       | No                  | 37.9370° -107.4610°  |
-| Grouse     | 42.2  | 9.6     | 4308  | \-4188  | Fri 1415  | Fri 2155      | Sat 0230  | Auto     | Y     | Yes                 | 37.9176° -107.5581°  |
-| Engineer   | 48.7  | 6.5     | 2310  | \-1220  | Fri 1545  | Sat 0150       | None     | Hike     |       | No                  | 37.9858° -107.6041°  |
-| Ouray      | 56.6  | 7.9     | 455   | \-4575  | Fri 1645  | Sat 0510       | Sat 0900  | Auto     | Y     | Yes                 | 38.0283° -107.6731°  |
-| Governor   | 64.5  | 7.9     | 3148  | \-48    | Fri 1815  | Sat 0850       | Sat 1230 | Auto     |       | No                  | 37.9814° -107.7612°  |
-| Kroger’s   | 67.8  | 3.3     | 2320  | 0       | Fri 1915  | Sat 1100      | None     | Hike     |       | No                  | 37.9616° -107.7717°  |
-| Telluride  | 72.8  | 5       | 40    | \-4390  | Fri 2015  | Sat 1250      | Sat 1645 | Auto     | Y     | Yes                 | 37.9353° -107.8071°  |
-| Chapman    | 82.1  | 9.3     | 4500  | \-3090  | Fri 2215  | Sat 1840      | Sat 2130 | Auto 4WD | Y     | Hike In Only        | 37.8557° -107.8044°  |
-| KT         | 89.1  | 7       | 2920  | \-2450  | Sat 0230   | Sat 2315      | Sun 130  | 4WD      |       | No                 | 37.7890° -107.7972°  |
-| Putnam     | 94.7  | 5.6     | 2425  | \-1455  | Sat 0330   | Sun 0320       | None     | Hike     |       | No                  | 37.7804° -107.7310°  |
-| Silverton  | 100.5 | 5.8     | 324   | \-2614  | Sat 0430   | Sun 0600       | Sun 0600  | Auto     | Y     | Yes                 | 37.8114° -107.6663°  |
+| KT         | 11.5  | 11.5    | 4069  | \-2749  | Fri 0710  | Fri 0950      | Fri 1245 | 4WD      |       | No                 | 37.7890° -107.7972°  |
+| Chapman    | 18.1  | 6.6     | 2450  | \-2920  | Fri 0820  | Fri 1250      | Fri 1600 | Auto 4WD | Y     | Hike In Only        | 37.8557° -107.8044°  |
+| Telluride  | 27.8  | 9.7     | 3090  | \-4500  | Fri 1010  | Fri 1640      | Fri 2000 | Auto     | Y     | Yes                 | 37.9353° -107.8071°  |
+| Kroger’s   | 32.7  | 4.9     | 4390  | \-40    | Fri 1140  | Fri 2000      | None     | Hike     |       | No                  | 37.9616° -107.7717°  |
+| Governor   | 35.9  | 3.2     | 0     | \-2320  | Fri 1200  | Fri 2100      | None     | Auto     |       | No                  | 37.9814° -107.7612°  |
+| Ouray      | 43.9  | 8.0     | 48    | \-3148  | Fri 1300  | Fri 2315      | Sat 0315 | Auto     | Y     | Yes                 | 38.0283° -107.6731°  |
+| Engineer   | 51.9  | 8.0     | 4575  | \-455   | Fri 1510  | Sat 0400      | None     | Hike     |       | No                  | 37.9858° -107.6041°  |
+| Grouse     | 58.4  | 6.5     | 1220  | \-2310  | Fri 1625  | Sat 0730      | Sat 1030 | Auto     | Y     | Yes                 | 37.9176° -107.5581°  |
+| Burrows    | 67.7  | 9.3     | 4188  | \-4308  | Fri 1900  | Sat 1315      | None     | Auto     |       | No                  | 37.9370° -107.4610°  |
+| Sherman    | 71.9  | 4.2     | 0     | \-950   | Fri 1940  | Sat 1345      | Sat 1630 | Auto 4WD | Y     | Yes                 | 37.9007° -107.4331°  |
+| Pole Creek | 80.8  | 8.9     | 3210  | \-1390  | Fri 2225  | Sat 1815      | None     | Hike     |       | No                  | 37.8031° -107.4747°  |
+| Maggie     | 85.1  | 4.3     | 1340  | \-960   | Fri 2330  | Sat 2015      | None     | 4WD      |       | No Crew/Hike-In Pacer Exchange Only | 37.8134° -107.5360°  |
+| Cunningham | 91.2  | 6.1     | 1700  | \-3160  | Sat 0110  | Sun 0150      | Sun 0200 | Auto     | Y     | Yes                 | 37.7932° -107.5777°  |
+| Silverton  | 100.5 | 9.3     | 2770  | \-3840  | Sat 0340  | Sun 0600      | Sun 0600 | Auto     | Y     | Yes                 | 37.8114° -107.6663°  |
 
 Times in military time, MDT
