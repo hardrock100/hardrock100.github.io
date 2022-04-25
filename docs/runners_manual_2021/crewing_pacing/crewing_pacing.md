@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Crewing and Pacing
-parent: Runners Manual 2021
+parent: Runners Manual 2022
 has_children: true
 nav_order: 5
-last_modified_date: 2021-05-20
+last_modified_date: 2022-04-25
 ---
 ## Crewing and Pacing
 
@@ -24,6 +24,6 @@ last_modified_date: 2021-05-20
 14. Pacers must run at least the whole leg to the next crew access or specifically allowed aid station, as there is generally no access for them in between. 
 15. Runners are limited to a single pacer at a time. Pacers may not continue unless accompanying their runner.
  
-Pacers are allowed from Grouse (Mile 42.2) to the finish. Pacers may also start or stop at crew access aid stations (Ouray, Telluride, Chapman). 
+Pacers are allowed from Ouray (Mile 43.9) to the finish. Pacers may also start or stop at crew access aid stations (Grouse, Sherman, Cunningham).  Pacers may hike in to the Maggie Aid Station from the base of CR2 (a 3.25mi hike) to join their runner.  NO CREWING at Maggie - the only ones hiking up should be joining their runner on course out of the aid station.
  
 Runners over 60 years old may have pacers for the entire run.
