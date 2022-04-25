@@ -4,7 +4,7 @@ title: Drop Bags
 parent: Crewing and Pacing
 grand_parent: Runners Manual 2022
 nav_order: 3
-last_modified_date: 2022-04-24
+last_modified_date: 2022-04-25
 ---
 
 ## Drop Bags
@@ -21,5 +21,7 @@ Finish (Mile 100.5)
 Drop bags may be dropped off at the American Legion building (11th and Greene) between 0800-1500 Monday-Thursday of run week, with a final deadline of 1500 on Thursday.
  
 Please weatherproof your bags as much as is reasonable. We cannot guarantee full weather protection for every bag. That can be as simple as putting your clothing in a Ziplock bag inside the main bag.
+
+Bags need to be labeled with your NAME, BIB NUMBER and LOCATION they are traveling to.
  
 Drop bags will be returned to the Legion progressively as aid stations close, with all returned by the end of the Awards Breakfast on Sunday.
