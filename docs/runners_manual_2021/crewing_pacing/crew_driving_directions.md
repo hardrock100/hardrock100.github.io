@@ -77,4 +77,8 @@ Only one vehicle per runner will be allowed to park at Grouse. You must have you
 [37.7932° -107.5777°](https://goo.gl/maps/FrzuVwgTtBwPmu947)
 
 1. Take CR 2 NE from Silverton 4 miles to Cunningham Gulch following the signs to the Old Hundred Mine Tour.
-2. Just after crossing the Animas River Bridge at Howardsville, follow the signs and traffic marshals to the [parking area](https://goo.gl/maps/asAvBXAm16RrnKaq8) for shuttle boarding.
+2. Just after crossing the Animas River Bridge at Howardsville, turn right (South) up the valley toward Stony Pass.
+3. At 2mi past the turn, DO NOT turn left onto the Stony Pass Road, but instead angle Right (Southwest) toward the Highland Mary trailhead.
+4. At 2mi beyond the Stony Pass Road, go past the Corral on your right to a large clearing.  The aid station is in the clearing between the road and the creek.
+
+Parking will likely be limited to one side of the road. Follow the signage and instructions.
