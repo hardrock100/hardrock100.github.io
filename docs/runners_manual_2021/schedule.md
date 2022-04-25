@@ -43,7 +43,7 @@ last_modified_date: 2021-06-11
 
 | --------- | ------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1600 | Aid Station Prep    | American Legion   | All the activities that go into making our tremendous aid stations! Unpack, test, sort & make sure everyone’s got the gear & food they need.  Activities vary daily. Lunch included. :) |
-| 0800-1000 | Coffee Club    | [Coffee Bear](https://www.coffeebearsilverton.com/)   |  Join the Hardrock community as we say good morning in a social way. Share stories, renew friendships and have a cup of Joe as we get ready for the day! |
+| 0800-1000 | Coffee Club    | Coffee Bear |  Join the Hardrock community as we say good morning in a social way. Share stories, renew friendships and have a cup of Joe as we get ready for the day! |
 | 1100 | Veterans Panel    | TBD   | Join Hardrock veterans for an informal question and answer session about what it takes to finish Hardrock and become a Hardrocker! |
 | 1400 | RD Conversation    | TBD |  If you are a RD of an ultra (or thinking about being a RD), make plans to join us as we talk about how to support and help each other, what are the common issues and how can we move our sport forward! |
 | 1500 | GU & Hardrock | TBD | Join Gu representatives as they talk about the historical connection between Gu and Hardrock and some of the new developments in Gu products. |
@@ -53,7 +53,7 @@ last_modified_date: 2021-06-11
 
 | --------- | ----------------------------------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 0800-1600 | Aid Station Prep                                      | American Legion     | All the activities that go into making our tremendous aid stations! Unpack, test, sort & make sure everyone’s got the gear & food they need. Activities vary daily. Lunch included. :) |
-| 0800-1000 | Coffee Club    | [Coffee Bear](https://www.coffeebearsilverton.com/)   |  Join the Hardrock community as we say good morning in a social way. Share stories, renew friendships and have a cup of Joe as we get ready for the day! |
+| 0800-1000 | Coffee Club    | Coffee Bear |  Join the Hardrock community as we say good morning in a social way. Share stories, renew friendships and have a cup of Joe as we get ready for the day! |
 | 0900 | Hardrock Historical Walking Tour    | Silverton Gym   |  A walking tour of the places in Silverton that made Hardrock what it is. We’ll also throw in a little bit of the history of Silverton while we’re at it. |
 | 1030 | Silverton Scavenger Hunt    | Silverton Gym   |  Meet here for your lust of things to collect and take pictures of . You’ll have all afternoon to get them. Prizes will be awarded to those who are most successful. A great activity for Future Hardrockers and those who are tired of listening to their runners obsess about what is to come. |
 | 1100 | Tailwind Nutrition Seminar    | TBD   |  Join Dr. Art Zemach as he discusses the different aspects of recovery, and its importance for endurance athletes (We guess Hardrockers qualify!) |
