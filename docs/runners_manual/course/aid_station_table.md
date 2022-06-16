@@ -4,7 +4,7 @@ title: Aid Station Table
 parent: Course
 grand_parent: Runners Manual 2022
 nav_order: 3
-last_modified_date: 2022-04-25
+last_modified_date: 2022-06-16
 ---
 
 ## Aid Station Table
