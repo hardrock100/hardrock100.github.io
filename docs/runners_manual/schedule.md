@@ -20,7 +20,7 @@ last_modified_date: 2022-06-16
 ### Monday, July 4
 
 | --------- | -------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Morning      | 4th of July 10K    | Memorial Park              | Get the 4th off to a fast start! More info to come |
+| 0800      | Blue Ribbon 10K & 5K   | Memorial Park              | Get the 4th off to a fast start with a FREE local race! Sign up on-site. Donations accepted to local charities. |
 | 1000      | [4th of July](https://www.silvertoncolorado.com/) Parade         | San Juan County Courthouse | Always a favorite of Hardrockers. Join the Hardrock Hundred Precision Drill team. Meet on. Wear something red, white or blue. If you don’t want to march come out anyway; it’s small town parading at its best! |
 | Dusk      | [Fireworks](https://www.silvertoncolorado.com/)                  | Silverton                  | One of the most impressive fireworks shows in the area!                                                                                                                                                          |
 
