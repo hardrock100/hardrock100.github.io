@@ -20,7 +20,7 @@ last_modified_date: 2022-04-25
 ### Monday, July 4
 
 | --------- | -------------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0730      | [Blue Ribbon 2K, 5K, 10K](https://www.silvertonalpinerunning.com/events/blue-ribbon-run/)    | Memorial Park              | Get the 4th off to a fast start!  Benefits Silverton Youth Center Registration- $25                      |
+| Morning      | 4th of July 10K    | Memorial Park              | Get the 4th off to a fast start! More info to come |
 | 1000      | [4th of July](https://www.silvertoncolorado.com/) Parade         | San Juan County Courthouse | Always a favorite of Hardrockers. Join the Hardrock Hundred Precision Drill team. Meet on. Wear something red, white or blue. If you don’t want to march come out anyway; it’s small town parading at its best! |
 | Dusk      | [Fireworks](https://www.silvertoncolorado.com/)                  | Silverton                  | One of the most impressive fireworks shows in the area!                                                                                                                                                          |
 
@@ -61,8 +61,6 @@ last_modified_date: 2022-04-25
 | 1500 | The First Hardrocks: Gold and Silver in the San Juans | TBD | Join author and mineralogist, Terry Wallace, as he looks at Hardrock from a geophysical and historical point of view. |
 | 1500 | Women of Hardrock | TBD | Racers, pacers, crew and spectators! Join this year's Women of Hardrock Open Discussion. We will tackle current events, popular topics, and anything that you want to address. The purpose of this discussion is to develop solutions, break down barriers, and to grow an encouraging environment. |
 | 1700 | Hardrock Happy Hour | TBD | Join the Hardrock family and friends for this purely social event either at Avalanche or Golden Block |
-| 1900 | [Ledlenser Trails in Motion Film Tour](https://trailsinmotion.com/) | Silverton Gym | Sit back, relax and enjoy this year's Trails In Motion lineup of new films!! Free but donations are appreciated.  |
-
 
 ### Thursday, July 14
 
