@@ -3,7 +3,7 @@ layout: default
 title: Runners Manual 2022
 nav_order: 1
 has_children: true
-last_modified_date: 2022-04-24
+last_modified_date: 2022-06-16
 ---
 
 ## Welcome
