@@ -4,11 +4,11 @@ title: Crew Access Aid Station Driving Directions
 parent: Crewing and Pacing
 grand_parent: Runners Manual 2022
 nav_order: 2
-last_modified_date: 2022-04-24
+last_modified_date: 2022-06-16
 ---
 ## Crew Access Aid Station Driving Directions
 
-**Chapman Gulch**
+**Chapman Gulch** *(This information may be updated prior to run weekend)*
 
 [37.8557° -107.8044°](https://goo.gl/maps/w3TvZ8N1m27YwnXL7)
  
@@ -42,11 +42,11 @@ Parking is limited both by the number of spots available and a two hour time res
 1. Take US 550 over Red Mountain Pass to Ouray. 
 2. Go to the north end of the main business district, and turn left (West) on 9th Ave. 
 3. Follow it 2 blocks, after which it will curve to the right (North). 
-4. Continue straight, and park in the gravel lot designated for RV parking to your right. 
+4. Continue straight, and park in the gravel lot designated for RV parking to your right.   The lot may fill, in which case use streetside parking around town, being respectful of local residents and driveways.  **Please avoid using the Ouray Hot Springs parking lot before 10:00p**
  
 The aid station will be on the west side of the park between the gazebo and restrooms.
 
-**Grouse Gulch**
+**Grouse Gulch** *(This information will be updated prior to run weekend)*
 
 [37.9176° -107.5581°](https://goo.gl/maps/EgspjdZY6oQSx7zN6)
 
