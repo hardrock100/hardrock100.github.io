@@ -4,7 +4,7 @@ title: Course
 parent: Runners Manual 2022
 has_children: true
 nav_order: 4
-last_modified_date: 2022-04-25
+last_modified_date: 2022-06-16
 ---
 ## The Hardrock Course
 
