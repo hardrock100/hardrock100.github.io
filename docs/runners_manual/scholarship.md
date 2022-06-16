@@ -14,7 +14,7 @@ The scholarship is awarded to High School seniors from the San Juan Mountains re
  
 Money for this scholarship is raised entirely by donations received from Hardrock Hundred runners, volunteers, and partners, as well as friends and family of Joel. 
  
-**[Donate Online!](http://www.coloradogives.org/joelzucker)**
+**[Donate Online!](https://cfssc.fcsuite.com/erp/donate/create?funit_id=1094)**
 
 If you want to mail in a check, make it out to "Community Foundation serving Southwest Colorado" and make sure to enter "Joel Zucker Scholarship" in the memo line. Mail it to:<br>
 Community Foundation serving Southwest Colorado<br>PO Box 1673<br>Durango, CO 81302
