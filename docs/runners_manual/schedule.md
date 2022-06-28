@@ -3,12 +3,12 @@ layout: default
 title: Schedule
 parent: Runners Manual 2022
 nav_order: 3
-last_modified_date: 2022-06-16
+last_modified_date: 2022-06-28
 ---
 
 # Schedule
 
-**MORE WILL BE ADDED AS EVENTS ARE CONFIRMED**
+**THIS IS A DRAFT ONLY AND WILL UNDERGO REVISIONS PRIOR TO RUN WEEK**
 
 *Addresses at bottom*
 
