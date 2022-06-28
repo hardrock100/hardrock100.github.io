@@ -4,7 +4,7 @@ title: Crew Access Aid Station Driving Directions
 parent: Crewing and Pacing
 grand_parent: Runners Manual 2022
 nav_order: 2
-last_modified_date: 2022-06-16
+last_modified_date: 2022-06-28
 ---
 ## Crew Access Aid Station Driving Directions
 
@@ -46,13 +46,13 @@ Parking is limited both by the number of spots available and a two hour time res
  
 The aid station will be on the west side of the park between the gazebo and restrooms.
 
-**Grouse Gulch** *(This information will be updated prior to run weekend)*
+**Animas Forks**
 
-[37.9176° -107.5581°](https://goo.gl/maps/EgspjdZY6oQSx7zN6)
+[37.9295° -107.5681°]([https://goo.gl/maps/EgspjdZY6oQSx7zN6](https://goo.gl/maps/5iSg8hpx5Bcgs1ph8))
 
-1. Take CR 2 NE from Silverton about 10 miles to a sign stating Picayune Gulch. 
-2. Just beyond the sign and just before the Animas River Bridge turn left (NW) onto a dirt road. 
-3. The aid station is on the flats southwest of the bridge and close to the main road. 
+1. Take CR 2 NE from Silverton about 11 miles to a sign for Animas Forks / CR 9. 
+2. Go beyond that sign 0.3mi to the next left, onto the upper Animas Forks Loop Road. 
+3. Follow the loop road around through the town.  Vehicle traffic will be one way only, downhill.  Parking will be single file on the right hand side of the road, beginning just back of the Animas River bridge on the lower half of the loop.  Follow the directions of parking marshals.
  
 Only one vehicle per runner will be allowed to park at Grouse. You must have your runner’s hangtag. Pacers may not leave their vehicles at the aid station.
 
