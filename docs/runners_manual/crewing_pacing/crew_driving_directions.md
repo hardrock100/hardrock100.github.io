@@ -48,7 +48,7 @@ The aid station will be on the west side of the park between the gazebo and rest
 
 **Animas Forks**
 
-[37.9295° -107.5681°]([https://goo.gl/maps/EgspjdZY6oQSx7zN6](https://goo.gl/maps/5iSg8hpx5Bcgs1ph8))
+[37.9295° -107.5681°](https://goo.gl/maps/5iSg8hpx5Bcgs1ph8)
 
 1. Take CR 2 NE from Silverton about 11 miles to a sign for Animas Forks / CR 9. 
 2. Go beyond that sign 0.3mi to the next left, onto the upper Animas Forks Loop Road. 
