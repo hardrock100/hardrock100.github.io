@@ -54,7 +54,7 @@ The aid station will be on the west side of the park between the gazebo and rest
 2. Go beyond that sign 0.3mi to the next left, onto the upper Animas Forks Loop Road. 
 3. Follow the loop road around through the town.  Vehicle traffic will be one way only, downhill.  Parking will be single file on the right hand side of the road, beginning just back of the Animas River bridge on the lower half of the loop.  Follow the directions of parking marshals.
  
-Only one vehicle per runner will be allowed to park at Grouse. You must have your runner’s hangtag. Pacers may not leave their vehicles at the aid station.
+Only one vehicle per runner will be allowed to park at Animas Forks. You must have your runner’s hangtag. Pacers may not leave their vehicles at the aid station.
 
 **Sherman**
 
