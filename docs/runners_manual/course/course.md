@@ -26,5 +26,5 @@ The run is a salute to the toughness and perseverance of the hardrock miners who
 <div class="imageprint"></div>
 <img src="/assets/images/HR100-2022-CW-Map-Sidebar.png">
 
-<p><a href="/pdf/HR100-2022-CW-Map-Sidebar.pdf">Download PDF</a>.</p>
+<p><a href="/pdf/HR100-2022-CW-Map-Sidebar.pdf">Download Map PDF</a>.</p>
 <p><a href="https://www.hardrock100.com/files/course/HR100-Course-Clockwise.gpx">Download GPX</a>.</p>*(Updated 6/28/22)*
