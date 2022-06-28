@@ -10,7 +10,6 @@ last_modified_date: 2022-06-28
 ## Aid Station Table
 
 {:.print-compressed}
-*(This information WILL be updated prior to run weekend)*
 | STATION    | Miles | Segment | Climb | Descent | Open Time | Avg 48Hr Pace | Cut Off  | Access   | Drop Bags | Crew                | Latitude & Longitude |
 | ---------- | ----- | ------- | ----- | ------- | --------- | ------------- | -------- | -------- | -------- | ------------------- | -------------------- |
 | KT         | 11.5  | 11.5    | 4069  | \-2749  | Fri 0710  | Fri 0950      | Fri 1245 | 4WD      |       | No                 | 37.7890° -107.7972°  |
