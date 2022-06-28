@@ -3,14 +3,14 @@ layout: default
 title: Runners Manual 2022
 nav_order: 1
 has_children: true
-last_modified_date: 2022-06-16
+last_modified_date: 2022-06-28
 ---
 
 ## Welcome
 
 We’re excited to have you join us at the Hardrock Hundred Endurance Run!
  
-Hardrock is an ultramarathon of approximately 100.5 miles in length, plus roughly 33,050 feet of climb and 33,050 feet of descent, at an average elevation of over 11,000 feet. The run is held on a loop course on 4WD roads, dirt trails, and cross country in southwest Colorado's San Juan Range, USA.
+Hardrock is an ultramarathon of approximately 102.5 miles in length, plus roughly 33,197 feet of climb and 33,197 feet of descent, at an average elevation of over 11,000 feet. The run is held on a loop course on 4WD roads, dirt trails, and cross country in southwest Colorado's San Juan Range, USA.
  
 The run starts and ends in Silverton, Colorado and connects the mountain towns of Ophir, Telluride, Ouray, and Sherman (Lake City), crossing thirteen major passes over 12,000 feet, with the highest point on the course being the 14,048 foot Handies Peak summit. The run is annually held in mid-July, and reverses direction each year. At the finish, runners kiss the iconic Hardrock (a picture of a ram's head painted on a large block of stone mining debris).
  
