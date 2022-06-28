@@ -4,7 +4,7 @@ title: Aid Stations
 parent: Course
 grand_parent: Runners Manual 2022
 nav_order: 4
-last_modified_date: 2022-04-25
+last_modified_date: 2022-06-28
 ---
 
 ## Aid Stations
@@ -19,7 +19,7 @@ The intrepid volunteers who staff these aid stations carry in all supplies using
 **Road-Side (KT, Chapman, Governors, Burrows, Maggie, Cunningham):**
 These stations typically have a bit food variety with multiple hot options, but are still limited by space.  A few are allowed crew access (typically with some restrictions) or drop bags.  Often residing in obscure pull-outs on key road crossings along the route, they provide a brief respite to refuel and warm up between long hours and arduous climbs/descents.
 
-**"The Big 4" (Telluride, Ouray, Grouse, Sherman):**
+**"The Big 4" (Telluride, Ouray, Animas Forks, Sherman):**
 With the widest variety of available amenities, the "Big 4" aid stations can be depended on to have copious options for hot food & beverages, drop bags & other services. Runners often spend their longest breaks here, resetting their gear and stomachs for the miles ahead. Lights, port-a-potties/bathrooms, crew access and drop bags are standard. They have lots of action, lots of people, and generally the biggest volunteer staffs.
 
 A typical aid station menu contains:
