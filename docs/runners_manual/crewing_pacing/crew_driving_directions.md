@@ -64,13 +64,13 @@ Only one vehicle per runner will be allowed to park at Animas Forks. You must ha
 1. Take CR 2 NE from Silverton to Animas Forks (~11 miles) 
 2. Continue on county roads over Cinnamon Pass (~5 miles beyond Animas Forks).
 3. From Cinnamon Pass, continue east toward Lake City approximately 15 miles past the Burrows Park Aid Station (no crews allowed) to the Sherman turn-off. 
-4. Turn sharply right (W) on the Sherman road, one mile to the BLM latrine and Cascade Creek trailhead where the aid station is located.
+4. Turn sharply right (W) on the Sherman road, one mile to the BLM latrine and Cataract Gulch trailhead where the aid station is located.
  
 *Alternate 2WD from Lake City*
 1. From Lake City, take SR 149 south to the turnoff to Lake San Cristobol Road. 
 2. Turn on the Lake San Cristobol Road and continue past the lake to the end of the pavement. 
 3. Continue on CR 30 about 14 miles to signed turnoff to Sherman. 
-4. Go one mile to the BLM latrine and the Cascade Creek trailhead where the aid station is located.
+4. Go one mile to the BLM latrine and the Cataract Gulch trailhead where the aid station is located.
  
 **Cunningham Gulch**
 
