@@ -25,19 +25,11 @@ p {break-inside: avoid !important;}
     display: none;
   }
   
-  .imagescreen + p {
+  .imagescreen {
     display: block !important;
   }
   
-  .imageprint + p {
-    display: none !important;
-  }
-    
-  .imagescreen + img {
-    display: block !important;
-  }
-  
-  .imageprint + img {
+  .imageprint {
     display: none !important;
   }
   
@@ -144,19 +136,11 @@ p {break-inside: avoid !important;}
     display: block !important;
   }
   
-  .imagescreen + p {
+  .imagescreen {
     display: none !important;
   }
   
-  .imageprint + p {
-    display: block !important;
-  } 
-    
-  .imagescreen + img {
-    display: none !important;
-  }
-  
-  .imageprint + img {
+  .imageprint {
     display: block !important;
   } 
 }
