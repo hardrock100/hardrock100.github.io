@@ -16,13 +16,13 @@ last_modified_date: 2022-06-28
 1. Take US 550 west from the south end of Silverton. 
 2. Near MP 75, turn west onto the Ophir Pass Road. This intersection is marked with a large green sign. 
 3. Take the dirt road to Ophir Pass (11,800’). The road becomes noticeably rougher and steeper on the two-mile descent to the aid station at the south turnoff toward Swamp Gulch.
-4. Continue west past the intersection with the path where runners come out onto Ophir Pass Road. **You must park in the [designated lot in Ophir](https://goo.gl/maps/Famb2qYTohEQ21X86) and hike back up Ophir Pass Road (roughly 2mi) to the aid station.**
+4. Continue west past the intersection with the path where runners come out onto Ophir Pass Road. **You must park in the [designated lot in Ophir](https://goo.gl/maps/Famb2qYTohEQ21X86) and hike back up Ophir Pass Road (1.75mi) to the aid station.**
  
 *Alternate 2WD from Telluride*
 1. Exit Telluride on Main Street and go west about three miles to SR 145. 
 2. Turn left (S) and go about 10 miles to the Ophir Pass Road. This intersection is marked with a green sign. 
 3. Turn left (E) passing through the hamlet of Ophir.
-4. **You must park in the [designated lot in Ophir](https://goo.gl/maps/Famb2qYTohEQ21X86) and hike back up Ophir Pass Road (roughly 2mi) to the aid station.**
+4. **You must park in the [designated lot in Ophir](https://goo.gl/maps/Famb2qYTohEQ21X86) and hike back up Ophir Pass Road (1.75mi) to the aid station.**
  
 No crew, spectator, media or parking or drop-offs of any kind will be allowed along Ophir Pass Road. *We are serious*, and penalties including disqualification and/or suspension from the lottery in future years can be applied to runners for non-compliance by their crews.
 
