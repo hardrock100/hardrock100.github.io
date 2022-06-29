@@ -4,7 +4,7 @@ title: Course
 parent: Runners Manual 2022
 has_children: true
 nav_order: 4
-last_modified_date: 2022-06-28
+last_modified_date: 2022-06-29
 ---
 ## The Hardrock Course
 
@@ -22,6 +22,6 @@ The run is a salute to the toughness and perseverance of the hardrock miners who
 
 <img src="/assets/images/HR100-2022-CW-Map-Sidebar.png">
 
-<p><a href="/pdf/HR100-2022-CW-Map-Sidebar.pdf">Download Map PDF</a>.</p>
-<p><a href="/pdf/HR100-2022-CW-Course-Description.pdf">Download Clockwise Written Course Description</a>.</p>
+<p><a href="https://www.hardrock100.com/files/course/HR100-2022-CW-Map.pdf">Download Map PDF</a>.</p>
+<p><a href="https://www.hardrock100.com/files/course/HR100-2022-CW-Course-Description.pdf">Download Clockwise Written Course Description</a>.</p>
 <p><a href="https://www.hardrock100.com/files/course/HR100-Course-Clockwise.gpx">Download GPX</a>.</p>*(Updated 6/28/22)*
