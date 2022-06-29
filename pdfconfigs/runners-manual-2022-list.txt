@@ -1,0 +1,20 @@
+---
+layout: none
+search: exclude
+---
+
+http://localhost:4010/index.html
+http://localhost:4010/docs/runners_manual/runners_manual/index.html
+http://localhost:4010/docs/runners_manual/rules/index.html
+http://localhost:4010/docs/runners_manual/schedule/index.html
+http://localhost:4010/docs/runners_manual/course/course/index.html
+http://localhost:4010/docs/runners_manual/course/aid_station_table/index.html
+http://localhost:4010/docs/runners_manual/course/aid_stations/index.html
+http://localhost:4010/docs/runners_manual/course/solar_lunar/index.html
+http://localhost:4010/docs/runners_manual/crewing_pacing/crewing_pacing/index.html
+http://localhost:4010/docs/runners_manual/crewing_pacing/crew_driving_directions/index.html
+http://localhost:4010/docs/runners_manual/crewing_pacing/drop_bags/index.html
+http://localhost:4010/docs/runners_manual/safety/index.html
+http://localhost:4010/docs/runners_manual/value_statements/index.html
+http://localhost:4010/docs/runners_manual/scholarship/index.html
+http://localhost:4010/docs/runners_manual/contacts/index.html
