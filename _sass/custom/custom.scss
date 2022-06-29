@@ -12,6 +12,7 @@ table.print-compressed {
 
 table {break-inside: avoid !important;}
 img {break-inside: avoid !important;}
+p {break-inside: avoid !important;}
 
 @media screen {
   .box-centered {
@@ -24,11 +25,11 @@ img {break-inside: avoid !important;}
     display: none;
   }
   
-  .imagescreen + p {
+  .imagescreen {
     display: block !important;
   }
   
-  .imageprint + p {
+  .imageprint {
     display: none !important;
   }
   
@@ -135,11 +136,11 @@ img {break-inside: avoid !important;}
     display: block !important;
   }
   
-  .imagescreen + p {
+  .imagescreen {
     display: none !important;
   }
   
-  .imageprint + p {
+  .imageprint {
     display: block !important;
   } 
 }
