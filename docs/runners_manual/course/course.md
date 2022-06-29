@@ -20,11 +20,9 @@ In the summer, animal life is abundant. You will almost certainly see elk in the
 
 The run is a salute to the toughness and perseverance of the hardrock miners who lived and worked in the area.
 
-<div class="imagescreen"></div>
-<img src="/assets/images/HR100-2022-CW-Map-Sidebar.png">
+<div class="imagescreen"><img src="/assets/images/HR100-2022-CW-Map-Sidebar.png"></div>
 
-<div class="imageprint"></div>
-<img src="/assets/images/HR100-2022-CW-Map-Sidebar.png">
+<div class="imageprint"><img src="/assets/images/HR100-2022-CW-Map-Sidebar.png"></div>
 
 <p><a href="/pdf/HR100-2022-CW-Map-Sidebar.pdf">Download Map PDF</a>.</p>
 <p><a href="https://www.hardrock100.com/files/course/HR100-Course-Clockwise.gpx">Download GPX</a>.</p>*(Updated 6/28/22)*
