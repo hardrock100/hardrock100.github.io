@@ -1,4 +1,4 @@
-<embed type="text/html" src="https://hardrock100.github.io/" width="100%" height="650px">
+<embed type="text/html" src="https://hardrock100.github.io/" width="100%" height="700px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/runners_manual/" width="100%" height="400px">
 
