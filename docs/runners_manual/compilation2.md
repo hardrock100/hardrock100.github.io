@@ -4,7 +4,7 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/rules/" width="100%" height="420px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/schedule/" width="100%" height="2570px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/schedule/" width="100%" height="2270px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/course/course/" width="100%" height="1050px">
 
@@ -22,8 +22,8 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/safety/" width="100%" height="1400px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/value_statements/" width="100%" height="1380px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/value_statements/" width="100%" height="1500px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/scholarship/" width="100%" height="350px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/scholarship/" width="100%" height="370px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/contacts/" width="100%" height="420px">
