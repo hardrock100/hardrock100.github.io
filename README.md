@@ -52,3 +52,73 @@ It is not necessary to run the site locally, but if you would like to do so, fol
    ```
    
 5. Open a browser and visit localhost:4000
+
+### Generating a PDF Version
+
+It is convenient to provide a PDF version of the Runner's Manual for a given year. To do so, you will need to do the following:
+
+1. Get the site running locally as described in the section above
+2. Add a `.yml` config file to the `/pdfconfigs` directory that looks something like this:
+```yaml
+# pdfconfigs/config_example_pdf.yml
+
+destination: _site/
+url: "http://127.0.0.1:4010"
+port: 4010
+print_title: Hardrock Hundred Endurance Run - Runners Manual 2022
+```
+3. Add a plain text file that lists, in order, the `html` files that you want compiled into the PDF. That file should be 
+named to reflect the PDF document that will result (like `example-file-list.txt`), and it should look something like this:
+```text
+---
+layout: none
+search: exclude
+---
+
+http://localhost:4010/index.html
+http://localhost:4010/docs/runners_manual/runners_manual/index.html
+http://localhost:4010/docs/runners_manual/rules/index.html
+http://localhost:4010/docs/runners_manual/schedule/index.html
+http://localhost:4010/docs/runners_manual/course/course/index.html
+```
+Note that these are references to the `.html` files in your `_site/docs` directory, *not* to the `.md` files in your 
+root-level `/docs` directory.
+
+4. Add a shell script in the root level that looks something like this:
+```bash
+# generate-pdf-example.sh
+# Note that .sh scripts work only on Mac. If you're on Windows, install Git Bash and use that as your client.
+
+echo 'Kill all Jekyll instances'
+kill -9 $(ps aux | grep '[j]ekyll' | awk '{print $2}')
+clear
+
+echo "Building PDF-friendly HTML site for Example File...";
+bundle exec jekyll serve --detach --config _config.yml,pdfconfigs/config_example_pdf.yml;
+echo "done";
+
+echo "Building the PDF ...";
+prince --javascript --input-list=_site/pdfconfigs/example-file-list.txt -o pdf/example_output_file.pdf;
+
+echo "Done. Look in the pdf directory to see if it printed successfully."
+```
+
+5. If you haven't already, install the Prince PDF generator
+```bash
+brew install prince
+```
+
+6. Make sure your shell script is executable from your terminal:
+
+```bash
+sudo chmod +x generate-pdf-example.sh
+```
+
+7. And then run the executable file:
+
+```bash
+generate-pdf-example.sh
+```
+
+8. Check the `/pdf` directory for your output PDF file. Tweak the file list and regenerate if needed.
+9. Change the "Download PDF" button to point to the generated PDF file.
