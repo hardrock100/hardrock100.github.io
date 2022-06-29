@@ -19,7 +19,7 @@ last_modified_date: 2022-06-28
 | Governor   | 35.9  | 3.2     | 0     | \-2320  | Fri 1200  | Fri 2100      | None     | Auto     |       | No                  | 37.9774° -107.7571°  |
 | Ouray      | 43.9  | 8.0     | 48    | \-3148  | Fri 1300  | Fri 2315      | Sat 0315 | Auto     | Y     | Yes                 | 38.0283° -107.6731°  |
 | Engineer   | 51.9  | 8.0     | 4575  | \-455   | Fri 1510  | Sat 0400      | None     | Hike     |       | No                  | 37.9858° -107.6041°  |
-| Animas Forks | 57.9  | 6.0     | 1220  | \-2015  | Fri 1625  | Sat 0730      | Sat 1030 | Auto     | Y     | Yes                 | 37.9295° -107.5681°  |
+| Animas Forks | 57.9  | 6.0     | 1220  | \-2015  | Fri 1625  | Sat 0730      | Sat 1030 | 4WD     | Y     | Yes                 | 37.9295° -107.5681°  |
 | Burrows    | 68.5  | 10.6     | 4188  | \-4603  | Fri 1900  | Sat 1315      | None     | Auto     |       | No                  | 37.9370° -107.4610°  |
 | Sherman    | 72.7  | 4.2     | 0     | \-950   | Fri 1940  | Sat 1345      | Sat 1630 | Auto 4WD | Y     | Yes                 | 37.9007° -107.4331°  |
 | Pole Creek | 82.1  | 9.4     | 3082  | \-1476  | Fri 2225  | Sat 1815      | None     | Hike     |       | No                  | 37.8061° -107.4669°  |
