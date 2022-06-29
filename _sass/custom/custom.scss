@@ -31,6 +31,14 @@ img {break-inside: avoid !important;}
   .imageprint + p {
     display: none !important;
   }
+    
+  .imagescreen + img {
+    display: block !important;
+  }
+  
+  .imageprint + img {
+    display: none !important;
+  }
   
   table.table-wrapper td {
     vertical-align: top !important;
@@ -140,6 +148,14 @@ img {break-inside: avoid !important;}
   }
   
   .imageprint + p {
+    display: block !important;
+  } 
+    
+  .imagescreen + img {
+    display: none !important;
+  }
+  
+  .imageprint + img {
     display: block !important;
   } 
 }
