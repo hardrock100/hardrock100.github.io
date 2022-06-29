@@ -56,6 +56,8 @@ The aid station will be on the west side of the park between the gazebo and rest
  
 Only one vehicle per runner will be allowed to park at Animas Forks. You must have your runner’s hangtag. Pacers may not leave their vehicles at the aid station.
 
+<img src="/assets/images/HR100-2022-Animas-Forks.jpg">
+
 **Sherman**
 
 [37.9007° -107.4331°](https://goo.gl/maps/wvw8cQojQ5UJJGGZ9)
