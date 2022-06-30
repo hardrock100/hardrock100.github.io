@@ -4,7 +4,7 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/rules/" width="100%" height="420px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/schedule/" width="100%" height="2270px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/schedule/" width="100%" height="800px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/course/course/" width="100%" height="1050px">
 
