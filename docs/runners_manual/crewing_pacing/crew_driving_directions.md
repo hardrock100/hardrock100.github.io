@@ -45,9 +45,7 @@ Parking is limited both by the number of spots available and a two hour time res
 4. Continue straight, and park in the gravel lot designated for RV parking to your right.   The lot may fill, in which case use streetside parking around town, being respectful of local residents and driveways.  **Please avoid using the Ouray Hot Springs parking lot before 10:00p**
  
 The aid station will be on the west side of the park between the gazebo and restrooms.
-<div class="pagebreak"> </div>
-<div class="printonly"><br/><br/><br/><br/><br/><br/><br/><br/></div>
-**AAAnimas Forks**
+**Animas Forks**
 
 [37.9295° -107.5681°](https://goo.gl/maps/5iSg8hpx5Bcgs1ph8)
 
@@ -56,7 +54,7 @@ The aid station will be on the west side of the park between the gazebo and rest
 3. Follow the loop road around through the town.  Vehicle traffic will be one way only, downhill.  Parking will be single file on the right hand side of the road, beginning just back of the Animas River bridge on the lower half of the loop.  Follow the directions of parking marshals.
  
 *4WD Strongly Recommended* Only one vehicle per runner will be allowed to park at Animas Forks. You must have your runner’s hangtag. Pacers may not leave their vehicles at the aid station.
-
+<div class="printonly"><br/><br/><br/><br/><br/><br/><br/><br/></div>
 <img src="/assets/images/HR100-2022-Animas-Forks.jpg">
 
 **Sherman**
