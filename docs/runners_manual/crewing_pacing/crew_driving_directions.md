@@ -8,7 +8,7 @@ last_modified_date: 2022-06-28
 ---
 ## Crew Access Aid Station Driving Directions
 
-**CCChapman Gulch** *(This information may be updated prior to run weekend)*
+**Chapman Gulch** *(This information may be updated prior to run weekend)*
 
 [37.8557° -107.8044°](https://goo.gl/maps/w3TvZ8N1m27YwnXL7)
  
@@ -56,7 +56,7 @@ The aid station will be on the west side of the park between the gazebo and rest
  
 *4WD Strongly Recommended* Only one vehicle per runner will be allowed to park at Animas Forks. You must have your runner’s hangtag. Pacers may not leave their vehicles at the aid station.
 <div class="printonly"><br/><br/><br/><br/><br/><br/><br/><br/></div>
-<img src="/assets/images/HR100-2022-Animas-Forks.jpg" width="600px">
+<img src="/assets/images/HR100-2022-Animas-Forks.jpg" width="500px">
 
 **Sherman**
 
