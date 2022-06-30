@@ -8,7 +8,7 @@ last_modified_date: 2022-06-28
 ---
 ## Crew Access Aid Station Driving Directions
 
-**Chapman Gulch** *(This information may be updated prior to run weekend)*
+**CCChapman Gulch** *(This information may be updated prior to run weekend)*
 
 [37.8557° -107.8044°](https://goo.gl/maps/w3TvZ8N1m27YwnXL7)
  
