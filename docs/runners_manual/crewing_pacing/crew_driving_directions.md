@@ -47,7 +47,7 @@ Parking is limited both by the number of spots available and a two hour time res
 The aid station will be on the west side of the park between the gazebo and restrooms.
 <div class="pagebreak"> </div>
 <div class="printonly"><br/><br/><br/><br/><br/><br/><br/><br/></div>
-**Animas Forks**
+**AAAnimas Forks**
 
 [37.9295° -107.5681°](https://goo.gl/maps/5iSg8hpx5Bcgs1ph8)
 
