@@ -16,7 +16,7 @@
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/crewing_pacing/crewing_pacing/" width="100%" height="530px">
 
-<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/crewing_pacing/crew_driving_directions/" width="100%" height="2500px">
+<embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/crewing_pacing/crew_driving_directions/" width="100%" height="2000px">
 
 <embed type="text/html" src="https://hardrock100.github.io/docs/runners_manual/crewing_pacing/drop_bags/" width="100%" height="215px">
 
