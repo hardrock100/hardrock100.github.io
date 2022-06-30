@@ -45,6 +45,7 @@ Parking is limited both by the number of spots available and a two hour time res
 4. Continue straight, and park in the gravel lot designated for RV parking to your right.   The lot may fill, in which case use streetside parking around town, being respectful of local residents and driveways.  **Please avoid using the Ouray Hot Springs parking lot before 10:00p**
  
 The aid station will be on the west side of the park between the gazebo and restrooms.
+
 **Animas Forks**
 
 [37.9295° -107.5681°](https://goo.gl/maps/5iSg8hpx5Bcgs1ph8)
