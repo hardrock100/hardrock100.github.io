@@ -39,7 +39,7 @@ These are the pieces to make sure are on your calendar! We’ll be adding many m
 
 | --------- | ---------------------- | ------------- | -------------------------------------------------------------------------------------------------------------- |
 | 0500-0600 | Golden Hour            | Silverton Gym | Cheer in those who've spent the most time enjoying the course!                                                 |
-| 0900      | Awards Breakfast       | Memorial Park | Come celebrate and share stories with your fellow runners and volunteers! It’s a perfect end to Hardrock! |
+| 0900      | Awards Breakfast       | Silverton Gym | Come celebrate and share stories with your fellow runners and volunteers! It’s a perfect end to Hardrock! |
 
 <div class="printme"></div>
 * American Legion  1069 Greene St.
